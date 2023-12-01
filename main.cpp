@@ -1,28 +1,32 @@
-
 #include <iostream>
 #include <fstream>
 #include <sstream>
 #include <string>
 
-bool isValidAlgorithm(const std::string& algorithm) {
-    return algorithm == "Booyer Moore" || algorithm == "Rabin Karp";
+bool isValidAlgorithm(std::string& algorithm) {
+    return algorithm == "Booyer Moore" || algorithm == "Rabin Karp" || algorithm == "both" || algorithm == "run a benchmark";
 }
 
 void processAlgorithm(std::string& algorithm) {
     do {
-        std::cout << "Enter the name of the algorithm you would like to use, Booyer Moore, or Rabin Karp" << std::endl;
+        std::cout << "Please enter what you would like to run. Your choices are: Booyer Moore, Rabin Karp, both, or run a benchmark" << std::endl;
         std::cin >> algorithm;
 
         if (!isValidAlgorithm(algorithm)) {
-            std::cout << "Invalid algorithm. Please enter either 'Booyer Moore' or 'Rabin Karp'." << std::endl;
+            std::cout << "Invalid algorithm. Please check your spelling and spacing." << std::endl;
         }
 
     } while (!isValidAlgorithm(algorithm));
 }
 
+
 int main(int argc, char* argv[]) {
     
+    std::string result;
+    std::string secondResult;
     std::string algorithm;
+
+    float benchmarkResult;
 
     std::ifstream inputFile(argv[1]);
 
@@ -44,5 +48,22 @@ int main(int argc, char* argv[]) {
     //std::cout << "File Content: " << fileContent << std::endl;
     std::cout << "Selected Algorithm: " << algorithm << std::endl;
 
+    if (algorithm == "Booyer Moore"){
+        //result = booyerMoore(inputFile);
+    }
+    else if(algorithm == "Rabin Karp"){
+       // result = rabinKarp(inputFile);
+    }
+    else if(algorithm == "both"){
+        /*
+        result = booyerMoore(inputFile);
+        secondResult = rabinKarp(inputFile);
+        */
+    }
+    else if(algorithm == "run a benchmark"){
+        //benchmarkResult = benchmark(const char* functionName)
+    }
+
     return 0;
 }
+
