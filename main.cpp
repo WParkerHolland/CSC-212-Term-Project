@@ -2,18 +2,19 @@
 #include <fstream>
 #include <sstream>
 #include <string>
+#include "rabin_karp.h"
 
-bool isValidAlgorithm(const std::string& algorithm) {
-    return algorithm == "Booyer Moore" || algorithm == "Rabin Karp";
+bool isValidAlgorithm(std::string& algorithm) {
+    return algorithm == "Booyer Moore" || algorithm == "Rabin Karp" || algorithm == "both" || algorithm == "run a benchmark";
 }
 
 void processAlgorithm(std::string& algorithm) {
     do {
-        std::cout << "Enter the name of the algorithm you would like to use, Booyer Moore, or Rabin Karp" << std::endl;
+        std::cout << "Please enter what you would like to run. Your choices are: Booyer Moore, Rabin Karp, both, or run a benchmark" << std::endl;
         std::cin >> algorithm;
 
         if (!isValidAlgorithm(algorithm)) {
-            std::cout << "Invalid algorithm. Please enter either 'Booyer Moore' or 'Rabin Karp'." << std::endl;
+            std::cout << "Invalid algorithm. Please check your spelling and spacing." << std::endl;
         }
 
     } while (!isValidAlgorithm(algorithm));
@@ -21,7 +22,11 @@ void processAlgorithm(std::string& algorithm) {
 
 int main(int argc, char* argv[]) {
     
+    std::string result;
+    std::string secondResult;
     std::string algorithm;
+
+    float benchmarkResult;
 
     std::ifstream inputFile(argv[1]);
 
@@ -42,6 +47,25 @@ int main(int argc, char* argv[]) {
     //optional
     //std::cout << "File Content: " << fileContent << std::endl;
     std::cout << "Selected Algorithm: " << algorithm << std::endl;
+
+    TwoWayQ twoWayQueue;
+    if (algorithm == "Booyer Moore"){
+        
+    }
+    else if(algorithm == "Rabin Karp"){
+        std::string targetString;
+        std::cout << "Enter the target string: ";
+        std::cin >> targetString;
+        
+        int* rabinKarpResult = twoWayQueue.rabin_karp(argv[1], targetString);
+        delete rabinKarpResult;
+    }
+    else if(algorithm == "both"){
+        
+    }
+    else if(algorithm == "run a benchmark"){
+
+    }
 
     return 0;
 }
