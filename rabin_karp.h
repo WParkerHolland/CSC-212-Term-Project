@@ -2,6 +2,7 @@
 
 #include <iostream>
 #include <string>
+#include <vector>
 
 #ifndef RABINKARP
 #define RABINKARP
@@ -31,5 +32,5 @@ class TwoWayQ{
         int enqueue(char data, int row, int col);
         int dequeue();
         int hash(char data);
-        int* rabin_karp(std::string fileName, std::string targetString);
+        std::vector<int>* rabin_karp(std::string fileName, std::string targetString);
 };
