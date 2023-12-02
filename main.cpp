@@ -2,6 +2,7 @@
 #include <fstream>
 #include <sstream>
 #include <string>
+#include <vector>
 #include "rabin_karp.h"
 
 bool isValidAlgorithm(std::string& algorithm) {
@@ -57,7 +58,7 @@ int main(int argc, char* argv[]) {
         std::cout << "Enter the target string: ";
         std::cin >> targetString;
         
-        int* rabinKarpResult = twoWayQueue.rabin_karp(argv[1], targetString);
+        std::vector<int>* rabinKarpResult = twoWayQueue.rabin_karp(argv[1], targetString);
         delete rabinKarpResult;
     }
     else if(algorithm == "both"){
