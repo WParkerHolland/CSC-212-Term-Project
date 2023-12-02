@@ -1,6 +1,7 @@
 #include <iostream>
 #include <string>
 #include <fstream>
+#include <vector>
 #include <cmath>
 #include "rabin_karp.h"
 
@@ -63,11 +64,12 @@ int TwoWayQ::dequeue(){
 }
 
 
-int* TwoWayQ::rabin_karp(std::string fileName, std::string targetString){
+std::vector<int>* TwoWayQ::rabin_karp(std::string fileName, std::string targetString){
     std::fstream legFile;
     legFile.open(fileName, std::ios::in);
     int row = -1, col, targetHash = 0, searchHash = 0, targetLen = targetString.size();
     bool isSame = true;
+    std::vector<int>* returnPtr = nullptr;
     std::string searchString;
 
     for(int i = 0; i < targetLen; i++){
@@ -97,10 +99,11 @@ int* TwoWayQ::rabin_karp(std::string fileName, std::string targetString){
                         }
 
                         if(isSame){
-                            int* arr = new int[2];
-                            arr[0] = tail->loc[0];
-                            arr[1] = tail->loc[1];
-                            return arr;
+                            if(returnPtr == nullptr){
+                                returnPtr = new std::vector<int>;
+                            }
+                            returnPtr->push_back(tail->loc[0]);
+                            returnPtr->push_back(tail->loc[1]);
                         }
                     }
                 }
@@ -110,5 +113,5 @@ int* TwoWayQ::rabin_karp(std::string fileName, std::string targetString){
     }
 
     legFile.close();
-    return nullptr;
+    return returnPtr;
 }
