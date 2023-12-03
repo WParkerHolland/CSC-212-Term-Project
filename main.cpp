@@ -4,6 +4,7 @@
 #include <string>
 #include <vector>
 #include "rabin_karp.h"
+#include "booyer_moore.h"
 
 bool isValidAlgorithm(std::string& algorithm) {
     return algorithm == "Booyer Moore" || algorithm == "Rabin Karp" || algorithm == "both" || algorithm == "run a benchmark";
@@ -51,7 +52,19 @@ int main(int argc, char* argv[]) {
 
     TwoWayQ twoWayQueue;
     if (algorithm == "Booyer Moore"){
-        
+        std::string pattern;
+        std::string booyerMoore_target;
+
+        std::cout << "Enter desired search pattern";
+        std::cin >> pattern;
+
+        std::cout << "Enter the target string: ";
+        std::cin >> booyerMoore_target;
+
+        BoyerMoore boyerMoore(pattern);
+
+        boyerMoore.search(booyerMoore_target);
+        boyerMoore.printResults();
     }
     else if(algorithm == "Rabin Karp"){
         std::string targetString;
