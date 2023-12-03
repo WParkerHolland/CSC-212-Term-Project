@@ -3,17 +3,20 @@
 #include <sstream>
 #include <string>
 #include <vector>
+#include <algorithm>
 #include "rabin_karp.h"
-#include "booyer_moore.h"
+#include "boyer_moore.h"
 
 bool isValidAlgorithm(std::string& algorithm) {
-    return algorithm == "Booyer Moore" || algorithm == "Rabin Karp" || algorithm == "both" || algorithm == "run a benchmark";
+    return algorithm == "Boyer Moore" || algorithm == "Rabin Karp" || algorithm == "both" || algorithm == "run a benchmark";
 }
 
 void processAlgorithm(std::string& algorithm) {
     do {
-        std::cout << "Please enter what you would like to run. Your choices are: Booyer Moore, Rabin Karp, both, or run a benchmark" << std::endl;
+        std::cout << "Please enter what you would like to run. Your choices are: Boyer Moore, Rabin Karp, both, or run a benchmark" << std::endl;
         std::cin >> algorithm;
+
+        std::transform(algorithm.begin(), algorithm.end(), algorithm.begin(), ::tolower);
 
         if (!isValidAlgorithm(algorithm)) {
             std::cout << "Invalid algorithm. Please check your spelling and spacing." << std::endl;
@@ -51,19 +54,19 @@ int main(int argc, char* argv[]) {
     std::cout << "Selected Algorithm: " << algorithm << std::endl;
 
     TwoWayQ twoWayQueue;
-    if (algorithm == "Booyer Moore"){
+    if (algorithm == "Boyer Moore"){
         std::string pattern;
-        std::string booyerMoore_target;
+        std::string boyerMoore_target;
 
         std::cout << "Enter desired search pattern";
         std::cin >> pattern;
 
         std::cout << "Enter the target string: ";
-        std::cin >> booyerMoore_target;
+        std::cin >> boyerMoore_target;
 
         BoyerMoore boyerMoore(pattern);
 
-        boyerMoore.search(booyerMoore_target);
+        boyerMoore.search(boyerMoore_target);
         boyerMoore.printResults();
     }
     else if(algorithm == "Rabin Karp"){
