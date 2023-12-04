@@ -59,10 +59,10 @@ int main(int argc, char* argv[]) {
         std::string boyerMoore_target;
 
         std::cout << "Enter desired search pattern" << std::endl;
-        std::cin >> pattern;
+        std::getline(std::cin, pattern);
 
         std::cout << "Enter the target string: " << std::endl;
-        std::cin >> boyerMoore_target;
+        std::getline(std::cin, boyerMoore_target)
 
         BoyerMoore boyerMoore(pattern);
 
