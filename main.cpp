@@ -91,9 +91,9 @@ int main(int argc, char* argv[]) {
         std::vector<int>* rabinKarpResult = twoWayQueue.rabin_karp(argv[1], targetString);
         delete rabinKarpResult;
 
-        BoyerMoore boyerMoore(pattern);
+        BoyerMoore boyerMoore(pattern, targetString);
 
-        boyerMoore.search(targetString);
+        boyerMoore.search();
         boyerMoore.printResults();
     }
     else if(algorithm == "run a benchmark"){
