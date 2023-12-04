@@ -9,7 +9,7 @@
 #include "bench.h"
 
 bool isValidAlgorithm(std::string& algorithm) {
-    return algorithm == "Boyer Moore" || algorithm == "Rabin Karp" || algorithm == "both" || algorithm == "run a benchmark";
+    return algorithm == "BoyerMoore" || algorithm == "RabinKarp" || algorithm == "both" || algorithm == "benchmark";
 }
 
 void processAlgorithm(std::string& algorithm) {
@@ -27,7 +27,7 @@ void processAlgorithm(std::string& algorithm) {
 }
 
 int main(int argc, char* argv[]) {
-    
+
     std::string result;
     std::string secondResult;
     std::string algorithm;
@@ -39,22 +39,22 @@ int main(int argc, char* argv[]) {
         return 1;
     }
 
-    //reading file into a string 
+    //reading file into a string
     std::stringstream buffer;
     buffer << inputFile.rdbuf();
     std::string fileContent = buffer.str();
 
-    inputFile.close(); 
+    inputFile.close();
 
     processAlgorithm(algorithm);
-    
+
     //optional
     //std::cout << "File Content: " << fileContent << std::endl;
     std::cout << "Selected Algorithm: " << algorithm << std::endl;
 
     bench benchmark;
     TwoWayQ twoWayQueue;
-    if (algorithm == "Boyer Moore"){
+    if (algorithm == "BoyerMoore"){
         std::string pattern;
         std::string boyerMoore_target;
 
@@ -62,25 +62,25 @@ int main(int argc, char* argv[]) {
         std::getline(std::cin, pattern);
 
         std::cout << "Enter the target string: " << std::endl;
-        std::getline(std::cin, boyerMoore_target)
+        std::cin >> boyerMoore_target;
 
-        BoyerMoore boyerMoore(pattern, boyerMoore_target);
+        BoyerMoore boyerMoore(pattern);
 
-        boyerMoore.search();
+        boyerMoore.search(boyerMoore_target);
         boyerMoore.printResults();
     }
-    else if(algorithm == "Rabin Karp"){
+    else if(algorithm == "RabinKarp"){
         std::string targetString;
         std::cout << "Enter the target string: " << std::endl;
         std::cin >> targetString;
-        
+
         std::vector<int>* rabinKarpResult = twoWayQueue.rabin_karp(argv[1], targetString);
         delete rabinKarpResult;
     }
     else if(algorithm == "both"){
         std::string targetString;
         std::string pattern;
-    
+
         std::cout << "Enter target string" << std::endl;
         std::cin >> targetString;
 
@@ -96,13 +96,22 @@ int main(int argc, char* argv[]) {
         boyerMoore.search(targetString);
         boyerMoore.printResults();
     }
-    else if(algorithm == "run a benchmark"){
+    else if(algorithm == "benchmark"){
         std::string benchmark_targetString;
         std::cout << "Enter target string" << std::endl;
         std::cin >> benchmark_targetString;
 
-        benchmark.benchRK(argv[1], benchmark_targetString);
-        benchmark.benchBM(argv[1], benchmark_targetString);
+        std::string temp = argv[1];
+
+
+        std::cout << "test" << std::endl;
+        double timeBM = benchmark.benchBM(temp, benchmark_targetString);
+        std::cout << "test2" << std::endl;
+        double timeRK = benchmark.benchRK(temp, benchmark_targetString);
+        std::cout << "test3" << std::endl;
+        benchmark.graph(temp, benchmark_targetString);
+        // benchmark.graph(timeRK, timeBM, temp, benchmark_targetString);
+
     }
 
     return 0;

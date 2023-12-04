@@ -12,8 +12,9 @@ private:
 
 public:
 
-    void benchRK(std::string& fileName, std::string& targetString);
-    void benchBM(std::string& fileName, std::string& targetString);
+    double benchRK(std::string& fileName, std::string& targetString);
+    double benchBM(std::string& fileName, std::string& targetString);
+    void graph(std::string& fileName, std::string& targetString);
 
 };
 
