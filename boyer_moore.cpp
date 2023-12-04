@@ -9,54 +9,78 @@ BoyerMoore::BoyerMoore(std::string& userInput){
 }
 
 void BoyerMoore::search(std::string& givenText) { 
+
+    if(pattern.size() > givenText.size()){ // Return if pattern has more characters than text
+        return;
+    }else if (pattern.size() == 0 || givenText.size() == 0){ // return if either pattern or text has no characters
+        return;
+    }
+
     int textLength = givenText.length();
 
     // Below finds all matches within the given text and adds it to a list (vector) of indexes
     int i = 0;
     while (i <= textLength - patternLength) {
         int j = patternLength - 1;
-        while (j >= 0 && pattern[j] == givenText[i + j]) {
+        while (j >= 0 && tolower(pattern[j]) == tolower(givenText[i + j])) { // Using tolower function to impose case insensitivity when comparing
             --j;
         }if (j < 0) {
             // if J is < 0, then that means a pattern was found within the text
             // index is then pushed into vector
             indexes.push_back(i);
-            i += 1;
+            
+            i += patternLength; 
+            
         } else {
             // Calculate shift and shifts by the larger value
-            int badCharShift = badCharTable[givenText[i + j]] - (patternLength - 1 - j);
-            int goodSuffixShift = goodSuffixTable[j + 1];
+            int badCharShift = badCharTable[givenText[i + patternLength - 1]];
+            int goodSuffixShift = goodSuffixTable[patternLength - 1 - j];
             i += shiftCalc(badCharShift, goodSuffixShift);
         }
     }
 }
 
 void BoyerMoore::bad_char_compute(){ // Computes bad character table (skip table)
-     int patternLength = pattern.length();
-    badCharTable.resize(256, patternLength); // Initialize with default shift value
-
-    // Below is used to compute values for the bad character Table
-    // Bad character table is table that determines how big of a shift to make if there is a mismatch between the text & pattern
-    for (int i = 0; i < patternLength - 1; ++i) {
-        badCharTable[pattern[i]] = patternLength - 1 - i;
+   int patternLength = pattern.length();
+    badCharTable.resize(256, patternLength); // Initialize with default shift value for all characters
+    
+    for (int i = 0; i < patternLength - 1; i++) {
+        badCharTable[pattern[i]] = patternLength - i + 1;
     }
 }
 
-void BoyerMoore::good_suffix_compute(){ // Comutes the good suffix table (skip table)
+void BoyerMoore::good_suffix_compute() {
     int patternLength = pattern.length();
-    goodSuffixTable.resize(patternLength + 1, patternLength); // Initialize with default shift value
+    goodSuffixTable.resize(patternLength + 1, patternLength); // Initialize with default shift value for the entire pattern
 
-    // Below is used to compute values for the suffix Table
-    // Good suffix table computes common patterns within the text/pattern itself and shifts by those patterns
-    for (int i = patternLength - 1; i >= 0; --i) {
-        int suffixLen = 0;
-        while (suffixLen <= i && pattern[i - suffixLen] == pattern[patternLength - 1 - suffixLen]) {
-            ++suffixLen;
-            goodSuffixTable[suffixLen] = i - suffixLen + 1;
+    int lastPrefixPosition = patternLength;
+    
+    // Compute the first part of the table: suffixes that are also prefixes
+    for (int i = patternLength - 1; i >= 0; i--) {
+        int j = i;
+        while (j >= 0 && pattern[j] == pattern[patternLength - 1 - i + j]) {
+            j--;
+        }if (j == -1) {
+            lastPrefixPosition = i + 1;
         }
+        goodSuffixTable[patternLength - i - 1] = lastPrefixPosition - i + patternLength - 1;
     }
-
+    // Compute the second part of the table: remaining suffixes
+    for (int i = 0; i < patternLength - 1; ++i) {
+        int suffixLen = 0;
+        int j = i;
+        int k = patternLength - 1;
+        while (j >= 0 && pattern[j] == pattern[k]) {
+            ++suffixLen;
+            --j;
+            --k;
+        }
+        goodSuffixTable[suffixLen] = patternLength - i - 1 + suffixLen;
+    }
 }
+
+
+
 
 int BoyerMoore::shiftCalc(int a, int b){
     // Compare badCharTable and goodSuffixTable value to see which is higher, and returns the higher of the two
@@ -67,17 +91,13 @@ int BoyerMoore::shiftCalc(int a, int b){
 // Print out the indexes where the pattern can be found
 void BoyerMoore::printResults(){
     if(indexes.size() > 1){
-        std::cout << indexes.size() << " Matches found at indexes: ";
+        std::cout << indexes.size() << " Matches were found:\n" ;
         for(int i = 0; i < indexes.size(); i++){
-            if(i != indexes.size()-1){
-            std::cout << indexes[i] << ", ";
-            }else{
-                std::cout << indexes[i] << std::endl;;
-            }
+            std::cout << "Match found at index: " << indexes[i] << std::endl;;
         }
     }else if(indexes.size() == 1){
-        std::cout << indexes.size() << " Match found at index: " << indexes[0] << std::endl;
+        std::cout << "1 Match was found:\n" << "Match found at index: " << indexes[0] << std::endl;
     }else{
-        std::cout << "No match found in text.";
+        std::cout << "No match found";
     }
 }
