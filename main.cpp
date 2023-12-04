@@ -64,9 +64,9 @@ int main(int argc, char* argv[]) {
         std::cout << "Enter the target string: " << std::endl;
         std::getline(std::cin, boyerMoore_target)
 
-        BoyerMoore boyerMoore(pattern);
+        BoyerMoore boyerMoore(pattern, boyerMoore_target);
 
-        boyerMoore.search(boyerMoore_target);
+        boyerMoore.search();
         boyerMoore.printResults();
     }
     else if(algorithm == "Rabin Karp"){
