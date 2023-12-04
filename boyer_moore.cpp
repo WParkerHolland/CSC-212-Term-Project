@@ -44,8 +44,12 @@ void BoyerMoore::bad_char_compute(){ // Computes bad character table (skip table
    int patternLength = pattern.length();
     badCharTable.resize(256, patternLength); // Initialize with default shift value for all characters
     
-    for (int i = 0; i < patternLength - 1; i++) {
-        badCharTable[pattern[i]] = patternLength - i + 1;
+    for(int i = 0; i < 256; i++){
+        badCharTable[i] = -1;
+    }
+
+    for (int i = 0; i < patternLength; i++) {
+        badCharTable[(int) pattern[i]] = i;
     }
 }
 
@@ -54,7 +58,7 @@ void BoyerMoore::good_suffix_compute() {
     goodSuffixTable.resize(patternLength + 1, patternLength); // Initialize with default shift value for the entire pattern
 
     int lastPrefixPosition = patternLength;
-    
+
     // Compute the first part of the table: suffixes that are also prefixes
     for (int i = patternLength - 1; i >= 0; i--) {
         int j = i;
@@ -78,9 +82,6 @@ void BoyerMoore::good_suffix_compute() {
         goodSuffixTable[suffixLen] = patternLength - i - 1 + suffixLen;
     }
 }
-
-
-
 
 int BoyerMoore::shiftCalc(int a, int b){
     // Compare badCharTable and goodSuffixTable value to see which is higher, and returns the higher of the two
