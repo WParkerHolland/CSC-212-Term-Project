@@ -1,21 +1,42 @@
 #include "boyer_moore.h"
+#include <algorithm>
 
-BoyerMoore::BoyerMoore(std::string& userInput){
+BoyerMoore::BoyerMoore(std::string& userInput, std::string& fname){
     // Constructor
     this->pattern = userInput;
+    std::transform(pattern.begin(), pattern.end(), pattern.begin(), ::tolower); // Helps with case insensitivity
+
     this->patternLength = pattern.length();
+
+    readFile(fname);
     good_suffix_compute();
     bad_char_compute();
 }
 
-void BoyerMoore::search(std::string& givenText) { 
+void BoyerMoore::readFile(std::string& fname){
+    std::ifstream file(fname);
+        std::string fileContent;
+        std::string line;
+
+        while (std::getline(file, line)) {
+            std::transform(line.begin(), line.end(), line.begin(), ::tolower); // Helps with case insensitivity
+            fileContent += line;
+        }
+
+    file.close();
+
+    this->givenText = fileContent;
+
+    return;
+}
+
+void BoyerMoore::search() { 
 
     if(pattern.size() > givenText.size()){ // Return if pattern has more characters than text
         return;
     }else if (pattern.size() == 0 || givenText.size() == 0){ // return if either pattern or text has no characters
         return;
     }
-
     int textLength = givenText.length();
 
     // Below finds all matches within the given text and adds it to a list (vector) of indexes
@@ -44,12 +65,12 @@ void BoyerMoore::bad_char_compute(){ // Computes bad character table (skip table
    int patternLength = pattern.length();
     badCharTable.resize(256, patternLength); // Initialize with default shift value for all characters
     
-    for(int i = 0; i < 256; i++){
+    for(int i = 0; i < patternLength; i++){
         badCharTable[i] = -1;
     }
 
-    for (int i = 0; i < patternLength; i++) {
-        badCharTable[(int) pattern[i]] = i;
+    for (int i = 0; i < patternLength-1; i++) {
+        badCharTable[(int) pattern[i]] = i-1;
     }
 }
 
