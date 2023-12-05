@@ -51,10 +51,10 @@ int main(int argc, char* argv[]) {
     //optional
     //std::cout << "File Content: " << fileContent << std::endl;
     std::cout << "Selected Algorithm: " << algorithm << std::endl;
-
+    
     bench benchmark;
     TwoWayQ twoWayQueue;
-    if (algorithm == "Boyer Moore"){
+    if (algorithm == "boyer moore"){
         std::string pattern;
         std::string boyerMoore_target;
 
@@ -64,12 +64,12 @@ int main(int argc, char* argv[]) {
         std::cout << "Enter the target string: " << std::endl;
         std::getline(std::cin, boyerMoore_target);
 
-        BoyerMoore boyerMoore(pattern);
+        BoyerMoore boyerMoore(pattern, inputFile);
 
-        boyerMoore.search(boyerMoore_target);
+        boyerMoore.search();
         boyerMoore.printResults();
     }
-    else if(algorithm == "Rabin Karp"){
+    else if(algorithm == "rabin karp"){
         std::string targetString;
         std::cout << "Enter the target string: " << std::endl;
         std::cin >> targetString;
@@ -99,11 +99,21 @@ int main(int argc, char* argv[]) {
 
 
         std::vector<int>* rabinKarpResult = twoWayQueue.rabin_karp(argv[1], targetString);
-        delete rabinKarpResult;
 
-        BoyerMoore boyerMoore(pattern);
+        if (rabinKarpResult != nullptr) {
+            std::cout << "Matches found at positions:";
+            for (int i = 0; i < rabinKarpResult->size(); i += 2) {
+                std::cout << " (" << (*rabinKarpResult)[i] << ", " << (*rabinKarpResult)[i + 1] << ")";
+            }
+            std::cout << std::endl;
+            delete rabinKarpResult;
+        } else {
+            std::cout << "No matches found." << std::endl;
+        }
 
-        boyerMoore.search(targetString);
+        BoyerMoore boyerMoore(pattern, inputFile);
+
+        boyerMoore.search();
         boyerMoore.printResults();
     }
     else if(algorithm == "run a benchmark"){
