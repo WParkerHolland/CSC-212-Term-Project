@@ -64,10 +64,6 @@ void BoyerMoore::bad_char_compute(){ // Computes bad character table (skip table
    int patternLength = pattern.length();
     badCharTable.resize(256, patternLength); // Initialize with default shift value for all characters
     
-    for(int i = 0; i < patternLength; i++){
-        badCharTable[i] = -1;
-    }
-
     for (int i = 0; i < patternLength; i++) {
         badCharTable[(int) pattern[i]] = i;
     }
