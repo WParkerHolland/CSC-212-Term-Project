@@ -19,13 +19,14 @@ void BoyerMoore::readFile(std::string& fname){
         std::string line;
 
         while (std::getline(file, line)) {
-            std::transform(line.begin(), line.end(), line.begin(), ::tolower); // Helps with case insensitivity
             fileContent += line;
         }
 
     file.close();
     this->givenText = fileContent;
+    std::transform(givenText.begin(), givenText.end(), givenText.begin(), ::tolower);
 
+    
     return;
 }
 
@@ -42,13 +43,12 @@ void BoyerMoore::search() {
     int i = 0;
     while (i <= textLength - patternLength) {
         int j = patternLength - 1;
-        while (j >= 0 && pattern[j]== givenText[i + j]) { // Using tolower function to impose case insensitivity when comparing
+        while (j >= 0 && std::tolower(pattern[j]) == std::tolower(givenText[i + j])) { // Using tolower function to impose case insensitivity when comparing
             --j;
         }if (j < 0) {
             // if J is < 0, then that means a pattern was found within the text
             // index is then pushed into vector
             indexes.push_back(i);
-            
             i += patternLength; 
             
         } else {
