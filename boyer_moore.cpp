@@ -24,7 +24,6 @@ void BoyerMoore::readFile(std::string& fname){
         }
 
     file.close();
-
     this->givenText = fileContent;
 
     return;
@@ -43,7 +42,7 @@ void BoyerMoore::search() {
     int i = 0;
     while (i <= textLength - patternLength) {
         int j = patternLength - 1;
-        while (j >= 0 && tolower(pattern[j]) == tolower(givenText[i + j])) { // Using tolower function to impose case insensitivity when comparing
+        while (j >= 0 && pattern[j]== givenText[i + j]) { // Using tolower function to impose case insensitivity when comparing
             --j;
         }if (j < 0) {
             // if J is < 0, then that means a pattern was found within the text
@@ -69,8 +68,8 @@ void BoyerMoore::bad_char_compute(){ // Computes bad character table (skip table
         badCharTable[i] = -1;
     }
 
-    for (int i = 0; i < patternLength-1; i++) {
-        badCharTable[(int) pattern[i]] = i-1;
+    for (int i = 0; i < patternLength; i++) {
+        badCharTable[(int) pattern[i]] = i;
     }
 }
 
