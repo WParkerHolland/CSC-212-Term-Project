@@ -14,7 +14,7 @@ bool isValidAlgorithm(std::string& algorithm) {
 
 void processAlgorithm(std::string& algorithm) {
     do {
-        std::cout << "Please enter what you would like to run. Your choices are: Boyer Moore, Rabin Karp, both, or run a benchmark" << std::endl;
+        std::cout << "Please enter what you would like to run. Your choices are: (Boyer Moore), (Rabin Karp), (both), or (run a benchmark)" << std::endl;
         std::getline(std::cin, algorithm);
 
         std::transform(algorithm.begin(), algorithm.end(), algorithm.begin(), ::tolower);
@@ -59,7 +59,7 @@ int main(int argc, char* argv[]) {
         std::string pattern;
         std::string boyerMoore_target;
 
-        std::cout << "Enter desired search pattern" << std::endl;
+        std::cout << "Enter the target string" << std::endl;
         std::getline(std::cin, pattern);
 
         BoyerMoore boyerMoore(pattern, temp);
@@ -70,7 +70,7 @@ int main(int argc, char* argv[]) {
     else if(algorithm == "rabin karp"){
         std::string targetString;
         std::cout << "Enter the target string: " << std::endl;
-        std::cin >> targetString;
+        std::getline(std::cin, targetString);
         
         std::vector<int>* rabinKarpResult = twoWayQueue.rabin_karp(argv[1], targetString);
         
