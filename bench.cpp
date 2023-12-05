@@ -20,8 +20,8 @@ double bench::benchRK(std::string& fileName, std::string& targetString) {
 double bench::benchBM(std::string& fileName, std::string& targetString) {
 
     clock_t startTime = clock(); // start clock
-    BoyerMoore boyerMooreObj(fileName); // run boyer-moore
-    boyerMooreObj.search(targetString);
+    BoyerMoore boyerMooreObj(targetString, fileName); // run boyer-moore
+    boyerMooreObj.search();
     clock_t endTime = clock(); // end clock
     double timeBM = double(endTime - startTime) / CLOCKS_PER_SEC; // calculate seconds
 

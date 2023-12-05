@@ -33,6 +33,7 @@ int main(int argc, char* argv[]) {
     std::string algorithm;
 
     std::ifstream inputFile(argv[1]);
+    std::string temp = argv[1];
 
     if (!inputFile.is_open()) {
         std::cerr << "Error opening file: " << argv[1] << std::endl;
@@ -61,10 +62,7 @@ int main(int argc, char* argv[]) {
         std::cout << "Enter desired search pattern" << std::endl;
         std::getline(std::cin, pattern);
 
-        std::cout << "Enter the target string: " << std::endl;
-        std::getline(std::cin, boyerMoore_target);
-
-        BoyerMoore boyerMoore(pattern, inputFile);
+        BoyerMoore boyerMoore(pattern, temp);
 
         boyerMoore.search();
         boyerMoore.printResults();
@@ -94,10 +92,6 @@ int main(int argc, char* argv[]) {
         std::cout << "Enter target string" << std::endl;
         std::cin >> targetString;
 
-        std::cout << "Enter desired search pattern (Boyer Moore)" << std::endl;
-        std::cin >> pattern;
-
-
         std::vector<int>* rabinKarpResult = twoWayQueue.rabin_karp(argv[1], targetString);
 
         if (rabinKarpResult != nullptr) {
@@ -110,8 +104,8 @@ int main(int argc, char* argv[]) {
         } else {
             std::cout << "No matches found." << std::endl;
         }
-
-        BoyerMoore boyerMoore(pattern, inputFile);
+        
+        BoyerMoore boyerMoore(pattern, temp);
 
         boyerMoore.search();
         boyerMoore.printResults();
@@ -119,10 +113,10 @@ int main(int argc, char* argv[]) {
     else if(algorithm == "run a benchmark"){
         std::string benchmark_targetString;
         std::cout << "Enter target string" << std::endl;
-        std::cin >> benchmark_targetString;
+        std::getline(std::cin, benchmark_targetString);
 
-        //benchmark.benchRK(argv[1], benchmark_targetString);
-        //benchmark.benchBM(argv[1], benchmark_targetString);
+        benchmark.benchRK(temp, benchmark_targetString);
+        benchmark.benchBM(temp, benchmark_targetString);
     }
 
     return 0;
