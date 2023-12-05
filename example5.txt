@@ -1,7 +1,7 @@
 118th CONGRESS
 1st Session
 H. R. 3932
-[Report No. 118–162]
+[Report No. 118-162]
 
 
 To authorize appropriations for fiscal year 2024 for intelligence and intelligence related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.
@@ -24,7 +24,7 @@ Be it enacted by the Senate and House of Representatives of the United States of
 
 
 SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
-(a) Short Title.-This Act may be cited as the “Intelligence Authorization Act for Fiscal Year 2024”.
+(a) Short Title.-This Act may be cited as the "Intelligence Authorization Act for Fiscal Year 2024".
 
 (b) Table Of Contents.-The table of contents for this Act is as follows:
 
@@ -187,9 +187,9 @@ Sec. 909. Requirement to ensure intelligence community directives appropriately 
 SEC. 2. DEFINITIONS.
 In this Act:
 
-(1) CONGRESSIONAL INTELLIGENCE COMMITTEES.-The term “congressional intelligence committees” has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+(1) CONGRESSIONAL INTELLIGENCE COMMITTEES.-The term "congressional intelligence committees" has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
-(2) INTELLIGENCE COMMUNITY.-The term “intelligence community” has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+(2) INTELLIGENCE COMMUNITY.-The term "intelligence community" has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
 TITLE I-INTELLIGENCE ACTIVITIES
 
@@ -240,7 +240,7 @@ None of the funds authorized to be appropriated by this Act or otherwise made av
 
 
 SEC. 304. NONAPPLICABILITY OF CERTAIN PROHIBITIONS RELATING TO MODIFICATION OF ACCOUNT STRUCTURE FOR NATIONAL INTELLIGENCE PROGRAM BUDGET.
-None of the prohibitions under section 8067 of the Consolidated Appropriations Act, 2023 (Public Law 117–328) shall apply with respect to amounts authorized to be appropriated by this Act.
+None of the prohibitions under section 8067 of the Consolidated Appropriations Act, 2023 (Public Law 117-328) shall apply with respect to amounts authorized to be appropriated by this Act.
 
 
 SEC. 305. SECURE COMMUNICATION BETWEEN CONGRESS AND INTELLIGENCE COMMUNITY.
@@ -252,9 +252,9 @@ SEC. 305. SECURE COMMUNICATION BETWEEN CONGRESS AND INTELLIGENCE COMMUNITY.
 
 (d) Budget.-The Director shall ensure that within the budget of the Office of the Director of National Intelligence there is a specific expenditure center and project to be used to carry out this section.
 
-(e) Treatment As Congressional Records.-Any data stored or transmitted by the congressional intelligence committees through networks, equipment, or software provided under subsection (a) is a congressional record and shall not be treated as an agency record for purposes of section 552 of title 5, United States Code, (commonly known as the “the Freedom of Information Act”) or any other law.
+(e) Treatment As Congressional Records.-Any data stored or transmitted by the congressional intelligence committees through networks, equipment, or software provided under subsection (a) is a congressional record and shall not be treated as an agency record for purposes of section 552 of title 5, United States Code, (commonly known as the "the Freedom of Information Act") or any other law.
 
-(f) Designated Congressional Leaders.-In this section, the term “designated congressional leaders” means-
+(f) Designated Congressional Leaders.-In this section, the term "designated congressional leaders" means-
 
 (1) the Chair and Ranking Member of the Permanent Select Committee on Intelligence of the House of Representatives, or their designees; and
 
@@ -278,11 +278,11 @@ SEC. 401. ENHANCED PERSONNEL SECURITY REVIEW WITH RESPECT TO SOCIAL MEDIA.
 
 (b) Enhanced Personnel Security Review With Respect To Social Media.-Section 11001(b) of title 5, United States Code, is amended by adding at the end the following new paragraph:
 
-“(3) SPECIAL REQUIREMENTS WITH RESPECT TO SOCIAL MEDIA.-
+"(3) SPECIAL REQUIREMENTS WITH RESPECT TO SOCIAL MEDIA.-
 
-“(A) IN GENERAL.-Information obtained and integrated from sources described in paragraph (1) shall include any publicly available social media information relating to the covered individual.
+"(A) IN GENERAL.-Information obtained and integrated from sources described in paragraph (1) shall include any publicly available social media information relating to the covered individual.
 
-“(B) DISCLOSURE BY COVERED INDIVIDUALS.-The enhanced personnel security program of an agency shall include a requirement that a covered individual disclose any username or alias used by the covered individual on any social media account, including both private and public social media accounts, but may not require the covered individual to disclose any password for any such account.”.
+"(B) DISCLOSURE BY COVERED INDIVIDUALS.-The enhanced personnel security program of an agency shall include a requirement that a covered individual disclose any username or alias used by the covered individual on any social media account, including both private and public social media accounts, but may not require the covered individual to disclose any password for any such account.".
 
 
 SEC. 402. LIMITATION ON AUTHORITY OF DIRECTOR OF NATIONAL INTELLIGENCE TO ESTABLISH ADDITIONAL NATIONAL INTELLIGENCE CENTERS.
@@ -290,35 +290,35 @@ The National Security Act of 1947 (50 U.S.C. 3001 et seq.) is amended-
 
 (1) by amending section 102A(f)(2) (50 U.S.C. 3024(f)(2)) to read as follows:
 
-“(2) (A) The Director of National Intelligence shall oversee the National Counterterrorism Center, the National Counterproliferation and Biosecurity Center, the National Counterintelligence and Security Center, the Foreign Malign Influence Center, and the Cyber Threat Intelligence and Integration Center.
+"(2) (A) The Director of National Intelligence shall oversee the National Counterterrorism Center, the National Counterproliferation and Biosecurity Center, the National Counterintelligence and Security Center, the Foreign Malign Influence Center, and the Cyber Threat Intelligence and Integration Center.
 
-“(B) The Director of National Intelligence may establish a new national intelligence center, or assign a new function to a national intelligence center, but only if-
+"(B) The Director of National Intelligence may establish a new national intelligence center, or assign a new function to a national intelligence center, but only if-
 
-“(i) the Director submits to the congressional intelligence committees written notification of such proposed establishment or assignment; and
+"(i) the Director submits to the congressional intelligence committees written notification of such proposed establishment or assignment; and
 
-“(ii) a period of 90 days has elapsed after the date on which such committees receive such notification.”;
+"(ii) a period of 90 days has elapsed after the date on which such committees receive such notification.";
 
 (2) by amending section 103(c)(14) (50 U.S.C. 3025(c)(14)) to read as follows:
 
-“(14) Such other offices and officials as may be established by law or the Director may establish or designate in the Office, including national intelligence centers (consistent with the notification requirement under section 102A(f)(2)(B)).”; and
+"(14) Such other offices and officials as may be established by law or the Director may establish or designate in the Office, including national intelligence centers (consistent with the notification requirement under section 102A(f)(2)(B))."; and
 
 (3) by amending section 119B(a) (50 U.S.C. 3058(a)) to read as follows:
 
-“(a) Authority To Establish.-The Director of National Intelligence may establish, consistent with the notification requirement under section 102A(f)(2)(B), one or more national intelligence centers to address intelligence priorities, including regional issues.”.
+"(a) Authority To Establish.-The Director of National Intelligence may establish, consistent with the notification requirement under section 102A(f)(2)(B), one or more national intelligence centers to address intelligence priorities, including regional issues.".
 
 
 SEC. 403. IMPROVEMENTS RELATING TO INTELLIGENCE COMMUNITY STAFFING, DETAILS, AND ASSIGNMENTS.
 (a) Improvements Relating To Assignments And Details.-Section 102A(f)(3)(A) of the National Security Act of 1947 (50 U.S.C. 3024(f)(3)(A)) is amended-
 
-(1) in the matter preceding clause (i), by striking “personnel policies” and inserting “binding personnel policies”;
+(1) in the matter preceding clause (i), by striking "personnel policies" and inserting "binding personnel policies";
 
 (2) by amending clause (i) to read as follows:
 
-“(i) require and facilitate assignments and details of personnel to national intelligence centers, and between elements of the intelligence community over the course of the careers of such personnel;”; and
+"(i) require and facilitate assignments and details of personnel to national intelligence centers, and between elements of the intelligence community over the course of the careers of such personnel;"; and
 
 (3) by amending clause (v) to read as follows:
 
-“(v) require service in more than one element of the intelligence community as a condition of promotion to such positions within the intelligence community as the Director shall specify, and take requisite steps to ensure compliance among elements of the intelligence community; and”.
+"(v) require service in more than one element of the intelligence community as a condition of promotion to such positions within the intelligence community as the Director shall specify, and take requisite steps to ensure compliance among elements of the intelligence community; and".
 
 (b) Required Staffing Document For Office Of Director Of National Intelligence.-
 
@@ -350,35 +350,35 @@ Section 102A(f) of the National Security Act of 1947 (50 U.S.C. 3024(f)) is amen
 
 (2) by inserting after paragraph (7) the following new paragraph (8):
 
-“(8) The Director of National Intelligence shall-
+"(8) The Director of National Intelligence shall-
 
-“(A) conduct assessments and audits of the compliance of each element of the intelligence community with minimum insider threat policy;
+"(A) conduct assessments and audits of the compliance of each element of the intelligence community with minimum insider threat policy;
 
-“(B) receive information from each element of the intelligence community regarding the collection, sharing, and use by such element of audit and monitoring data for insider threat detection across all classified and unclassified information technology systems within such element;
+"(B) receive information from each element of the intelligence community regarding the collection, sharing, and use by such element of audit and monitoring data for insider threat detection across all classified and unclassified information technology systems within such element;
 
-“(C) provide guidance and oversight to Federal departments and agencies to fully implement automated records checks, consistent with personnel vetting reforms and the Trusted Workforce 2.0 initiative, or successor initiative, and ensure that information collected pursuant to such records checks is appropriately shared in support of intelligence community-wide insider threat initiatives;
+"(C) provide guidance and oversight to Federal departments and agencies to fully implement automated records checks, consistent with personnel vetting reforms and the Trusted Workforce 2.0 initiative, or successor initiative, and ensure that information collected pursuant to such records checks is appropriately shared in support of intelligence community-wide insider threat initiatives;
 
-“(D) carry out evaluations of the effectiveness of counterintelligence, security, and insider threat program activities of each element of the intelligence community, including with respect to the lowest organizational unit of each such element, that include an identification of any gaps, shortfalls, or resource needs of each such element;
+"(D) carry out evaluations of the effectiveness of counterintelligence, security, and insider threat program activities of each element of the intelligence community, including with respect to the lowest organizational unit of each such element, that include an identification of any gaps, shortfalls, or resource needs of each such element;
 
-“(E) identify gaps, shortfalls, resources needs, and recommendations for adjustments in allocations and additional resources and other remedies to strengthen counterintelligence, security, and insider threat detection programs;
+"(E) identify gaps, shortfalls, resources needs, and recommendations for adjustments in allocations and additional resources and other remedies to strengthen counterintelligence, security, and insider threat detection programs;
 
-“(F) pursuant to final damage assessments facilitated by the National Counterintelligence and Security Center that have been undertaken as a result of an unauthorized disclosure, determine whether the heads of the elements of the intelligence community implement recommended mitigation, and notify the congressional intelligence committees of such determinations; and
+"(F) pursuant to final damage assessments facilitated by the National Counterintelligence and Security Center that have been undertaken as a result of an unauthorized disclosure, determine whether the heads of the elements of the intelligence community implement recommended mitigation, and notify the congressional intelligence committees of such determinations; and
 
-“(G) study the data collected during the course of background investigations and adjudications for security clearances granted to individuals who subsequently commit unauthorized disclosures, and issue findings regarding the quality of such data as a predictor for insider threat activity, delineated by the severity of the unauthorized disclosure.”.
+"(G) study the data collected during the course of background investigations and adjudications for security clearances granted to individuals who subsequently commit unauthorized disclosures, and issue findings regarding the quality of such data as a predictor for insider threat activity, delineated by the severity of the unauthorized disclosure.".
 
 
 SEC. 405. MODIFICATION OF DEADLINE FOR ANNUAL SUBMISSION OF NATIONAL INTELLIGENCE PRIORITIES FRAMEWORK.
-Section 102A(p)(3) of the National Security Act of 1947 (50 U.S.C. 3024(p)(3)) is amended by striking “October 1” and inserting “March 1”.
+Section 102A(p)(3) of the National Security Act of 1947 (50 U.S.C. 3024(p)(3)) is amended by striking "October 1" and inserting "March 1".
 
 
 SEC. 406. MATTERS RELATING TO CHIEF DATA OFFICERS OF INTELLIGENCE COMMUNITY.
 (a) Prohibition On Simultaneous Service As Chief Data Officer And Chief Information Officer.-Section 103G of the National Security Act of 1947 (50 U.S.C. 3032) is amended by adding at the end the following new subsection:
 
-“(d) Prohibition On Simultaneous Service As Chief Data Officer And Chief Information Officer.-An individual serving in the position of Chief Information Officer of the Intelligence Community or chief information officer of any other element of the intelligence community, as the case may be, may not, while so serving, serve as the Intelligence Community Chief Data Officer under section 103K or as the chief data officer of any other element of the intelligence community.”.
+"(d) Prohibition On Simultaneous Service As Chief Data Officer And Chief Information Officer.-An individual serving in the position of Chief Information Officer of the Intelligence Community or chief information officer of any other element of the intelligence community, as the case may be, may not, while so serving, serve as the Intelligence Community Chief Data Officer under section 103K or as the chief data officer of any other element of the intelligence community.".
 
 (b) Clarification Of Duties Of Intelligence Community Chief Data Officer.-
 
-(1) CLARIFICATION OF DATA-RELATED DUTIES.-Section 103K(c)(4) of the National Security Act of 1947 (50 U.S.C. 3034b(c)(4)) is amended by inserting “relating to data” after “duties”.
+(1) CLARIFICATION OF DATA-RELATED DUTIES.-Section 103K(c)(4) of the National Security Act of 1947 (50 U.S.C. 3034b(c)(4)) is amended by inserting "relating to data" after "duties".
 
 (2) REMOVAL OF UNRELATED DUTIES AND FUNCTIONS.-Not later than 90 days after the date of the enactment of this Act, consistent with section 103K(c) of the National Security Act of 1947 (50 U.S.C. 3034b(c)), as amended by paragraph (1), the Director of National Intelligence shall complete such internal reorganization of the Office of the Director of National Intelligence as the Director determines necessary to ensure that the duties of the Intelligence Community Chief Data Officer appointed under such section do not include-
 
@@ -398,26 +398,26 @@ SEC. 406. MATTERS RELATING TO CHIEF DATA OFFICERS OF INTELLIGENCE COMMUNITY.
 SEC. 407. MODIFICATION TO SPECIAL PAY AUTHORITY FOR SCIENCE, TECHNOLOGY, ENGINEERING, OR MATHEMATICS POSITIONS.
 (a) Modification.-Section 113B of the National Security Act of 1947 (50 U.S.C. 3049a) is amended-
 
-(1) in the section heading, by inserting “AND POSITIONS REQUIRING BANKING OR FINANCIAL SERVICES EXPERTISE” after “MATHEMATICS POSITIONS”;
+(1) in the section heading, by inserting "AND POSITIONS REQUIRING BANKING OR FINANCIAL SERVICES EXPERTISE" after "MATHEMATICS POSITIONS";
 
 (2) in subsection (a)-
 
-(A) in the heading, by inserting “Or In Banking Or Financial Services” after “Mathematics”;
+(A) in the heading, by inserting "Or In Banking Or Financial Services" after "Mathematics";
 
-(B) in paragraph (1), in the matter preceding subparagraph (A), by inserting “or in banking or financial services (including expertise relating to critical financial infrastructure operations, capital markets, banking compliance programs, or international investments)” after “or mathematics”;
+(B) in paragraph (1), in the matter preceding subparagraph (A), by inserting "or in banking or financial services (including expertise relating to critical financial infrastructure operations, capital markets, banking compliance programs, or international investments)" after "or mathematics";
 
 (C) by redesignating paragraph (2) as paragraph (3); and
 
 (D) by inserting after paragraph (1) the following new paragraph:
 
-“(2) LIMITATION ON NUMBER OF RECIPIENTS.-For each element of the intelligence community, the number of individuals serving in a position in such element who receive a higher rate of pay established or increased under paragraph (1) may not, at any time during a given fiscal year, exceed 50 individuals or 5 percent of the total number of full-time equivalent positions authorized for such element for the preceding fiscal year, whichever is greater.”; and
+"(2) LIMITATION ON NUMBER OF RECIPIENTS.-For each element of the intelligence community, the number of individuals serving in a position in such element who receive a higher rate of pay established or increased under paragraph (1) may not, at any time during a given fiscal year, exceed 50 individuals or 5 percent of the total number of full-time equivalent positions authorized for such element for the preceding fiscal year, whichever is greater."; and
 
-(3) in subsection (e), by striking “the element” and inserting “an element”.
+(3) in subsection (e), by striking "the element" and inserting "an element".
 
 (b) Clerical Amendment.-The table of contents at the beginning of such Act is amended by striking the item relating to section 113B and inserting the following new item:
 
 
-“Sec. 113B. Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise.”.
+"Sec. 113B. Special pay authority for science, technology, engineering, or mathematics positions and positions requiring banking or financial services expertise.".
 (c) Reports.-Not later than September 1 of each year until September 1, 2025, the head of each element of the intelligence community shall submit to the congressional intelligence committees a report on any rates of pay established for such element under section 113B of such Act (50 U.S.C. 3049a), as amended by subsection (a), including-
 
 (1) a description of any rates of pay so established; and
@@ -426,193 +426,193 @@ SEC. 407. MODIFICATION TO SPECIAL PAY AUTHORITY FOR SCIENCE, TECHNOLOGY, ENGINEE
 
 
 SEC. 408. ANNUAL REPORT ON UNFUNDED PRIORITIES OF INTELLIGENCE COMMUNITY.
-Section 514(a) of the National Security Act of 1947 (50 U.S.C. 3113(a)) is amended by inserting “prepare and” after “each element of the intelligence community shall”.
+Section 514(a) of the National Security Act of 1947 (50 U.S.C. 3113(a)) is amended by inserting "prepare and" after "each element of the intelligence community shall".
 
 
 SEC. 409. NOTICE TO CONGRESS OF COUNTERINTELLIGENCE THREATS TO LEGISLATIVE BRANCH.
 Title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.) is amended by adding at the end the following new section (and conforming the table of contents at the beginning of such Act accordingly):
 
-“SEC. 516. NOTICE TO CONGRESS OF COUNTERINTELLIGENCE THREATS TO LEGISLATIVE BRANCH AND LEGISLATIVE BRANCH OFFICIALS.
+"SEC. 516. NOTICE TO CONGRESS OF COUNTERINTELLIGENCE THREATS TO LEGISLATIVE BRANCH AND LEGISLATIVE BRANCH OFFICIALS.
 
-“(a) Notification, Briefings, And Preparation Of Reports.-Consistent with the protection of intelligence sources and methods, the Director of National Intelligence and the Director of the Federal Bureau of Investigation shall jointly-
+"(a) Notification, Briefings, And Preparation Of Reports.-Consistent with the protection of intelligence sources and methods, the Director of National Intelligence and the Director of the Federal Bureau of Investigation shall jointly-
 
-“(1) notify, in a timely manner, congressional leadership of any counterintelligence threat to the legislative branch or a legislative branch official;
+"(1) notify, in a timely manner, congressional leadership of any counterintelligence threat to the legislative branch or a legislative branch official;
 
-“(2) provide to legislative branch officials determined appropriate by the Directors, including any such official targeted or compromised by such a threat, briefings on the defense against such threats; and
+"(2) provide to legislative branch officials determined appropriate by the Directors, including any such official targeted or compromised by such a threat, briefings on the defense against such threats; and
 
-“(3) prepare reports that include specific information concerning such threats to the legislative branch or legislative branch officials but exclude the intelligence sources or methods by which such information has been obtained, to facilitate the increased distribution of specific information concerning such threats.
+"(3) prepare reports that include specific information concerning such threats to the legislative branch or legislative branch officials but exclude the intelligence sources or methods by which such information has been obtained, to facilitate the increased distribution of specific information concerning such threats.
 
-“(b) Defensive Priority.-In determining the appropriateness of disseminating information on counterintelligence threats (including information associated with a sensitive intelligence matter or ongoing criminal investigation) or of providing a briefing on the defense against such threats under subsection (a), the Director of National Intelligence and the Director of the Federal Bureau of Investigation shall seek to resolve such determination in favor of the action most compatible with enhancing the defense of the legislative branch against such threats.
+"(b) Defensive Priority.-In determining the appropriateness of disseminating information on counterintelligence threats (including information associated with a sensitive intelligence matter or ongoing criminal investigation) or of providing a briefing on the defense against such threats under subsection (a), the Director of National Intelligence and the Director of the Federal Bureau of Investigation shall seek to resolve such determination in favor of the action most compatible with enhancing the defense of the legislative branch against such threats.
 
-“(c) Quarterly Reports.-
+"(c) Quarterly Reports.-
 
-“(1) REQUIREMENT.-On a quarterly basis, the Director of National Intelligence shall submit to congressional leadership a report on counterintelligence threats to the legislative branch or legislative branch officials.
+"(1) REQUIREMENT.-On a quarterly basis, the Director of National Intelligence shall submit to congressional leadership a report on counterintelligence threats to the legislative branch or legislative branch officials.
 
-“(2) MATTERS.-Each report under paragraph (1) shall include, with respect to the quarterly period covered by the report, the following:
+"(2) MATTERS.-Each report under paragraph (1) shall include, with respect to the quarterly period covered by the report, the following:
 
-“(A) A description of any counterintelligence threat to the legislative branch or a legislative branch official (including the identity of any such official) identified during such period.
+"(A) A description of any counterintelligence threat to the legislative branch or a legislative branch official (including the identity of any such official) identified during such period.
 
-“(B) An identification of each date on which the intelligence community became aware of such a threat.
+"(B) An identification of each date on which the intelligence community became aware of such a threat.
 
-“(C) An identification of the number of briefings provided under subsection (a)(2) during such period, including an identification of each date on which such a briefing occurred.
+"(C) An identification of the number of briefings provided under subsection (a)(2) during such period, including an identification of each date on which such a briefing occurred.
 
-“(D) An identification of the number of reports prepared under subsection (a)(3) during such period.
+"(D) An identification of the number of reports prepared under subsection (a)(3) during such period.
 
-“(d) Definitions.-In this section:
+"(d) Definitions.-In this section:
 
-“(1) CONGRESSIONAL LEADERSHIP.-The term ‘congressional leadership’ means-
+"(1) CONGRESSIONAL LEADERSHIP.-The term ‘congressional leadership’ means-
 
-“(A) the Speaker of the House of Representatives;
+"(A) the Speaker of the House of Representatives;
 
-“(B) the minority leader of the House of Representatives;
+"(B) the minority leader of the House of Representatives;
 
-“(C) the majority leader of the Senate;
+"(C) the majority leader of the Senate;
 
-“(D) the minority leader of the Senate;
+"(D) the minority leader of the Senate;
 
-“(E) the Chairman and Ranking Member of the Permanent Select Committee on Intelligence of the House of Representatives; and
+"(E) the Chairman and Ranking Member of the Permanent Select Committee on Intelligence of the House of Representatives; and
 
-“(F) the Chairman and Vice Chairman of the Select Committee on Intelligence of the Senate.
+"(F) the Chairman and Vice Chairman of the Select Committee on Intelligence of the Senate.
 
-“(2) LEGISLATIVE BRANCH.-The term ‘legislative branch’ has the meaning given that term in section 202 of title 18, United States Code.
+"(2) LEGISLATIVE BRANCH.-The term ‘legislative branch’ has the meaning given that term in section 202 of title 18, United States Code.
 
-“(3) LEGISLATIVE BRANCH OFFICIAL.-The term ‘legislative branch official’ includes-
+"(3) LEGISLATIVE BRANCH OFFICIAL.-The term ‘legislative branch official’ includes-
 
-“(A) a Member of Congress;
+"(A) a Member of Congress;
 
-“(B) an elected officer of either House of Congress;
+"(B) an elected officer of either House of Congress;
 
-“(C) any employee of, or any other individual functioning in the capacity of an employee of-
+"(C) any employee of, or any other individual functioning in the capacity of an employee of-
 
-“(i) a Member of Congress;
+"(i) a Member of Congress;
 
-“(ii) a committee of either House of Congress;
+"(ii) a committee of either House of Congress;
 
-“(iii) the leadership staff of the House of Representatives or the leadership staff of the Senate;
+"(iii) the leadership staff of the House of Representatives or the leadership staff of the Senate;
 
-“(iv) a joint committee of Congress; or
+"(iv) a joint committee of Congress; or
 
-“(v) a working group or caucus organized to provide legislative services or other assistance to Members of Congress; and
+"(v) a working group or caucus organized to provide legislative services or other assistance to Members of Congress; and
 
-“(D) any other legislative branch employee serving in a position described under section 13101(13) of title 5, United States Code.”.
+"(D) any other legislative branch employee serving in a position described under section 13101(13) of title 5, United States Code.".
 
 
 SEC. 410. CONGRESSIONAL NOTICE OF COUNTERINTELLIGENCE INVESTIGATIONS INTO PERSONS HOLDING ELECTED OFFICES AND CANDIDATES FOR SUCH OFFICES.
 Title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.), as amended by section 409, is further amended by adding at the end the following new section (and conforming the table of contents at the beginning of such Act accordingly):
 
-“SEC. 517. CONGRESSIONAL NOTICE OF COUNTERINTELLIGENCE INVESTIGATIONS INTO FEDERAL ELECTED OFFICIALS AND CANDIDATES IN ELECTIONS FOR FEDERAL OFFICE.
+"SEC. 517. CONGRESSIONAL NOTICE OF COUNTERINTELLIGENCE INVESTIGATIONS INTO FEDERAL ELECTED OFFICIALS AND CANDIDATES IN ELECTIONS FOR FEDERAL OFFICE.
 
-“(a) Notice Requirement.-Notwithstanding section 533 of title 28, United States Code, the delegation of the authorities of the Attorney General, or any other delegation of authority, direction, or policy of the executive branch, the Director of Federal Bureau of Investigation shall notify congressional leadership not later than 48 hours after the commencement of a counterintelligence investigation into a person who holds an elected Federal office or a candidate in an election for such an office. Such notification shall include a summary of the relevant facts associated with the counterintelligence investigation and the identity of the person subject to such investigation.
+"(a) Notice Requirement.-Notwithstanding section 533 of title 28, United States Code, the delegation of the authorities of the Attorney General, or any other delegation of authority, direction, or policy of the executive branch, the Director of Federal Bureau of Investigation shall notify congressional leadership not later than 48 hours after the commencement of a counterintelligence investigation into a person who holds an elected Federal office or a candidate in an election for such an office. Such notification shall include a summary of the relevant facts associated with the counterintelligence investigation and the identity of the person subject to such investigation.
 
-“(b) Congressional Leadership.-The term ‘congressional leadership’ means-
+"(b) Congressional Leadership.-The term ‘congressional leadership’ means-
 
-“(1) the Speaker of the House of Representatives;
+"(1) the Speaker of the House of Representatives;
 
-“(2) the minority leader of the House of Representatives;
+"(2) the minority leader of the House of Representatives;
 
-“(3) the majority leader of the Senate;
+"(3) the majority leader of the Senate;
 
-“(4) the minority leader of the Senate;
+"(4) the minority leader of the Senate;
 
-“(5) the Chairman and Ranking Member of the Permanent Select Committee on Intelligence of the House of Representatives; and
+"(5) the Chairman and Ranking Member of the Permanent Select Committee on Intelligence of the House of Representatives; and
 
-“(6) the Chairman and Vice Chairman of the Select Committee on Intelligence of the Senate.”.
+"(6) the Chairman and Vice Chairman of the Select Committee on Intelligence of the Senate.".
 
 
 SEC. 411. SUBMISSION OF LEGISLATIVE PROPOSALS.
 Title V of the National Security Act of 1947 (50 U.S.C. 3091 et seq.), as amended by section 410, is further amended by adding at the end the following new section (and conforming the table of contents at the beginning of such Act accordingly):
 
-“SEC. 518. SUBMISSION OF LEGISLATIVE PROPOSALS.
+"SEC. 518. SUBMISSION OF LEGISLATIVE PROPOSALS.
 
-“Not later than 45 days after the date on which the President submits to Congress the budget for each fiscal year pursuant to section 1105(a) of title 31, United States Code, the Director of National Intelligence shall submit to the congressional intelligence committees any legislative provisions that are proposed by the Director to be enacted as part of the annual intelligence authorization bill for that fiscal year.”.
+"Not later than 45 days after the date on which the President submits to Congress the budget for each fiscal year pursuant to section 1105(a) of title 31, United States Code, the Director of National Intelligence shall submit to the congressional intelligence committees any legislative provisions that are proposed by the Director to be enacted as part of the annual intelligence authorization bill for that fiscal year.".
 
 
 SEC. 412. SUNSET OF CERTAIN INTELLIGENCE COMMUNITY REPORTING REQUIREMENTS.
 Title V of the National Security Act of 1947 (50 U.S.C. 3091), as amended by section 411, is further amended by adding at the end the following new section (and conforming the table of contents at the beginning of such Act accordingly):
 
-“SEC. 519. TERMINATION OF CERTAIN REPORTING REQUIREMENTS.
+"SEC. 519. TERMINATION OF CERTAIN REPORTING REQUIREMENTS.
 
-“(a) Sunset.-Effective on December 31, 2025, each report described in subsection (b) that is still required to be submitted to Congress as of such date shall no longer be required to be submitted to Congress.
+"(a) Sunset.-Effective on December 31, 2025, each report described in subsection (b) that is still required to be submitted to Congress as of such date shall no longer be required to be submitted to Congress.
 
-“(b) Reports Described.-Except as provided in subsection (c), a report described in this subsection is a recurring report that is required to be submitted to Congress by the Director of National Intelligence, or by any officer, official, component, or element of the Office of the Director of National Intelligence, pursuant to-
+"(b) Reports Described.-Except as provided in subsection (c), a report described in this subsection is a recurring report that is required to be submitted to Congress by the Director of National Intelligence, or by any officer, official, component, or element of the Office of the Director of National Intelligence, pursuant to-
 
-“(1) a provision of an annual intelligence authorization Act for fiscal year 2021 or any prior fiscal year;
+"(1) a provision of an annual intelligence authorization Act for fiscal year 2021 or any prior fiscal year;
 
-“(2) any amendment made by such an Act; or
+"(2) any amendment made by such an Act; or
 
-“(3) any committee report, classified annex, or explanatory statement accompanying such an Act.
+"(3) any committee report, classified annex, or explanatory statement accompanying such an Act.
 
-“(c) Exceptions.-Subsection (a) shall not apply with respect to any of the following:
+"(c) Exceptions.-Subsection (a) shall not apply with respect to any of the following:
 
-“(1) A reporting requirement imposed on all departments and agencies of the Federal Government.
+"(1) A reporting requirement imposed on all departments and agencies of the Federal Government.
 
-“(2) A report required in conjunction with a provision of law that requires a certification, determination or comparable finding, or authorizing waiver with respect to a condition, limitation, or comparable restriction.
+"(2) A report required in conjunction with a provision of law that requires a certification, determination or comparable finding, or authorizing waiver with respect to a condition, limitation, or comparable restriction.
 
-“(3) A recurring report required by a provision of law that specifies when the requirement to submit the report terminates.
+"(3) A recurring report required by a provision of law that specifies when the requirement to submit the report terminates.
 
-“(4) An annual report required by section 108B of the National Security Act of 1947 (50 U.S.C. 3043b).
+"(4) An annual report required by section 108B of the National Security Act of 1947 (50 U.S.C. 3043b).
 
-“(5) A report required to be submitted by an individual or entity other than an individual referred to in subsection (b) that requires consultation or coordination with an individual described in subsection (b).
+"(5) A report required to be submitted by an individual or entity other than an individual referred to in subsection (b) that requires consultation or coordination with an individual described in subsection (b).
 
-“(d) Report To Congress.-Not later than February 1, 2024, the Director of National Intelligence shall submit to the congressional intelligence committees a report that includes-
+"(d) Report To Congress.-Not later than February 1, 2024, the Director of National Intelligence shall submit to the congressional intelligence committees a report that includes-
 
-“(1) a list of all reports that the Director determines are described in subsection (b) and not subject to an exception under subsection (c); and
+"(1) a list of all reports that the Director determines are described in subsection (b) and not subject to an exception under subsection (c); and
 
-“(2) for each report included on such list, a citation to the provision of law under which the report is required to be submitted.”.
+"(2) for each report included on such list, a citation to the provision of law under which the report is required to be submitted.".
 
 
 SEC. 413. NOTICE AND DAMAGE ASSESSMENT WITH RESPECT TO SIGNIFICANT UNAUTHORIZED DISCLOSURE OF CLASSIFIED NATIONAL INTELLIGENCE.
 Title XI of the National Security Act of 1947 (50 U.S.C. 3231 et seq.) is amended by inserting after section 1105 the following new section (and conforming the table of contents at the beginning of such Act accordingly):
 
-“SEC. 1105A. NOTICE AND DAMAGE ASSESSMENT WITH RESPECT TO SIGNIFICANT UNAUTHORIZED DISCLOSURE OF CLASSIFIED NATIONAL INTELLIGENCE.
+"SEC. 1105A. NOTICE AND DAMAGE ASSESSMENT WITH RESPECT TO SIGNIFICANT UNAUTHORIZED DISCLOSURE OF CLASSIFIED NATIONAL INTELLIGENCE.
 
-“(a) Notification And Damage Assessment Requirements.-
+"(a) Notification And Damage Assessment Requirements.-
 
-“(1) REQUIREMENTS.-If the Director of National Intelligence becomes aware of an actual or potential significant unauthorized disclosure of classified national intelligence-
+"(1) REQUIREMENTS.-If the Director of National Intelligence becomes aware of an actual or potential significant unauthorized disclosure of classified national intelligence-
 
-“(A) as soon as practicable, but not later than 7 days after the date on which the Director becomes so aware, the Director shall notify the congressional intelligence committees of such actual or potential disclosure; and
+"(A) as soon as practicable, but not later than 7 days after the date on which the Director becomes so aware, the Director shall notify the congressional intelligence committees of such actual or potential disclosure; and
 
-“(B) in the case of an actual disclosure, not later than 7 days after the date on which the Director becomes so aware, the Director or the head of any element of the intelligence community from which the significant unauthorized disclosure originated shall initiate a damage assessment consistent with the procedures set forth in Intelligence Community Directive 732 (relating to the conduct of damage assessments), or successor directive, with respect to such disclosure.
+"(B) in the case of an actual disclosure, not later than 7 days after the date on which the Director becomes so aware, the Director or the head of any element of the intelligence community from which the significant unauthorized disclosure originated shall initiate a damage assessment consistent with the procedures set forth in Intelligence Community Directive 732 (relating to the conduct of damage assessments), or successor directive, with respect to such disclosure.
 
-“(2) CONTENTS OF NOTIFICATION.-A notification submitted to the congressional intelligence committees under paragraph (1)(A) with respect to an actual or potential significant unauthorized disclosure of classified national intelligence shall include-
+"(2) CONTENTS OF NOTIFICATION.-A notification submitted to the congressional intelligence committees under paragraph (1)(A) with respect to an actual or potential significant unauthorized disclosure of classified national intelligence shall include-
 
-“(A) a summary of the facts and circumstances of such disclosure;
+"(A) a summary of the facts and circumstances of such disclosure;
 
-“(B) a summary of the contents of the national intelligence revealed or potentially revealed, as the case may be, by such disclosure;
+"(B) a summary of the contents of the national intelligence revealed or potentially revealed, as the case may be, by such disclosure;
 
-“(C) an initial appraisal of the level of actual or potential damage, as the case may be, to the national security of the United States as a result of such disclosure; and
+"(C) an initial appraisal of the level of actual or potential damage, as the case may be, to the national security of the United States as a result of such disclosure; and
 
-“(D) in the case of an actual disclosure, which elements of the intelligence community will be involved in the damage assessment conducted with respect to such disclosure pursuant to paragraph (1)(B).
+"(D) in the case of an actual disclosure, which elements of the intelligence community will be involved in the damage assessment conducted with respect to such disclosure pursuant to paragraph (1)(B).
 
-“(b) Damage Assessment Reporting Requirements.-
+"(b) Damage Assessment Reporting Requirements.-
 
-“(1) RECURRING REPORTING REQUIREMENT.-Not later than 30 days after the date of the initiation of a damage assessment pursuant to subsection (a)(1)(B), and every 90 days thereafter until the completion of the damage assessment or upon the request of the congressional intelligence committees, the Director of National Intelligence shall-
+"(1) RECURRING REPORTING REQUIREMENT.-Not later than 30 days after the date of the initiation of a damage assessment pursuant to subsection (a)(1)(B), and every 90 days thereafter until the completion of the damage assessment or upon the request of the congressional intelligence committees, the Director of National Intelligence shall-
 
-“(A) submit to the congressional intelligence committees copies of any documents or materials disclosed as a result of the significant unauthorized disclosure of the classified national intelligence that is the subject of the damage assessment; and
+"(A) submit to the congressional intelligence committees copies of any documents or materials disclosed as a result of the significant unauthorized disclosure of the classified national intelligence that is the subject of the damage assessment; and
 
-“(B) provide to the congressional intelligence committees a briefing on such documents and materials and a status of the damage assessment.
+"(B) provide to the congressional intelligence committees a briefing on such documents and materials and a status of the damage assessment.
 
-“(2) FINAL DAMAGE ASSESSMENT.-As soon as practicable after completing a damage assessment pursuant to subsection (a)(1)(B), the Director of National Intelligence shall submit the final damage assessment to the congressional intelligence committees.
+"(2) FINAL DAMAGE ASSESSMENT.-As soon as practicable after completing a damage assessment pursuant to subsection (a)(1)(B), the Director of National Intelligence shall submit the final damage assessment to the congressional intelligence committees.
 
-“(c) Notification Of Referral To Department Of Justice.-If a referral is made to the Department of Justice from any element of the intelligence community regarding a significant unauthorized disclosure of classified national intelligence under this section, the Director of National Intelligence shall notify the congressional intelligence committees of the referral on the date such referral is made.”.
+"(c) Notification Of Referral To Department Of Justice.-If a referral is made to the Department of Justice from any element of the intelligence community regarding a significant unauthorized disclosure of classified national intelligence under this section, the Director of National Intelligence shall notify the congressional intelligence committees of the referral on the date such referral is made.".
 
 
 SEC. 414. IN-STATE TUITION RATES FOR CERTAIN MEMBERS OF INTELLIGENCE COMMUNITY.
-(a) In General.-Section 135(d) of the Higher Education Act of 1965 (20 U.S.C. 1015d(d)), as amended by section 6206(a)(4) of the Foreign Service Families Act of 2021 (Public Law 117–81), is further amended-
+(a) In General.-Section 135(d) of the Higher Education Act of 1965 (20 U.S.C. 1015d(d)), as amended by section 6206(a)(4) of the Foreign Service Families Act of 2021 (Public Law 117-81), is further amended-
 
-(1) in paragraph (1), by striking “or” after the semicolon;
+(1) in paragraph (1), by striking "or" after the semicolon;
 
-(2) in paragraph (2), by striking the period at the end and inserting “; or”; and
+(2) in paragraph (2), by striking the period at the end and inserting "; or"; and
 
 (3) by adding at the end the following new paragraph:
 
-“(3) an officer or employee of an element of the intelligence community (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) who serves in a position of employment in such element for a period of more than 30 days.”.
+"(3) an officer or employee of an element of the intelligence community (as such term is defined in section 3 of the National Security Act of 1947 (50 U.S.C. 3003)) who serves in a position of employment in such element for a period of more than 30 days.".
 
 (b) Effective Date.-The amendments made by subsection (a) shall take effect at each public institution of higher education in a State that receives assistance under the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) for the first period of enrollment at such institution that begins after July 1, 2024.
 
 
 SEC. 415. REPEAL OF STUDY ON PERSONNEL UNDER STRATEGIC INTELLIGENCE PARTNERSHIP PROGRAM.
-Section 6435 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 3533) is repealed (and conforming the table of contents in section 6001(b) accordingly).
+Section 6435 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263; 136 Stat. 3533) is repealed (and conforming the table of contents in section 6001(b) accordingly).
 
 
 SEC. 416. AUTHORIZATION RELATING TO CERTAIN INTELLIGENCE AND COUNTERINTELLIGENCE ACTIVITIES OF COAST GUARD.
@@ -636,13 +636,13 @@ SEC. 416. AUTHORIZATION RELATING TO CERTAIN INTELLIGENCE AND COUNTERINTELLIGENCE
 
 (2) NOTIFICATION TO CONGRESS.-Not later than 2 days after issuing a waiver under paragraph (1), the Commandant shall submit to the congressional intelligence committees written notice and justification for the waiver.
 
-(e) National Intelligence Program Defined.-In this section, the term “National Intelligence Program” has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+(e) National Intelligence Program Defined.-In this section, the term "National Intelligence Program" has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
 
 SEC. 417. INTELLIGENCE COMMUNITY COUNTERINTELLIGENCE OFFICES.
 (a) Establishment Of Offices.-
 
-(1) AGREEMENTS WITH DEPARTMENTS AND AGENCIES.-The Director of National Intelligence, acting through the Director of the National Counterintelligence and Security Center, shall seek to enter into an agreement with the head of a designated Federal department or agency under which the Director of National Intelligence and the head of the designated Federal department or agency shall establish within the designated Federal department or agency an office, which shall be known as an “Intelligence Community Counterintelligence Office”, in accordance with this section.
+(1) AGREEMENTS WITH DEPARTMENTS AND AGENCIES.-The Director of National Intelligence, acting through the Director of the National Counterintelligence and Security Center, shall seek to enter into an agreement with the head of a designated Federal department or agency under which the Director of National Intelligence and the head of the designated Federal department or agency shall establish within the designated Federal department or agency an office, which shall be known as an "Intelligence Community Counterintelligence Office", in accordance with this section.
 
 (2) LOCATION.-Each office established under this subsection within a department or agency shall be physically located within the headquarters of the department or agency and within reasonable proximity to the offices of the agency or departmental leadership.
 
@@ -724,7 +724,7 @@ SEC. 417. INTELLIGENCE COMMUNITY COUNTERINTELLIGENCE OFFICES.
 
 (2) REPORT.-Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence shall submit to the congressional intelligence committees a report on the plan to establish the Office required under paragraph (1). Such report shall include the costs and schedule associated with establishing such Office.
 
-(e) Designated Federal Department Or Agency.-In this section, the term “designated Federal department or agency” means the Department of Agriculture.
+(e) Designated Federal Department Or Agency.-In this section, the term "designated Federal department or agency" means the Department of Agriculture.
 
 
 SEC. 418. TERMINATION OF CLIMATE SECURITY ADVISORY COUNCIL.
@@ -748,13 +748,13 @@ SEC. 419. LIMITATION ON AVAILABILITY OF FUNDS FOR FEDERAL BUREAU OF INVESTIGATIO
 
 (b) Limitation.-Of the funds authorized to be appropriated by this Act or otherwise made available under the National Intelligence Program for fiscal year 2024 for the Federal Bureau of Investigation, not more than 98 percent may be obligated or expended until the Director of the Federal Bureau of Investigation submits to the congressional intelligence committees a list of media backgrounders conducted by personnel of the Federal Bureau of Investigation relating to the 2020 election for President or foreign malign influence in the lead up to such election, the dates of such engagements, and the persons with whom such engagements were held.
 
-(c) National Intelligence Program Defined.-In this section, the term “National Intelligence Program” has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+(c) National Intelligence Program Defined.-In this section, the term "National Intelligence Program" has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
 
 SEC. 420. LIMITATION ON AVAILABILITY OF FUNDS FOR FEDERAL BUREAU OF INVESTIGATION PENDING SUBMISSION OF CERTAIN MEMORANDUM RELATING TO BUDGET.
 (a) Limitation.-Of the funds authorized to be appropriated by this Act or otherwise made available under the National Intelligence Program for fiscal year 2024 for the Federal Bureau of Investigation, not more than 99.9 percent may be obligated or expended until the Director of the Federal Bureau of Investigation, in coordination with the Director of National Intelligence, submits to the congressional intelligence committees the memorandum of agreement that governs the policy of the Federal Bureau of Investigation on budget execution.
 
-(b) National Intelligence Program Defined.-In this section, the term “National Intelligence Program” has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+(b) National Intelligence Program Defined.-In this section, the term "National Intelligence Program" has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
 
 SEC. 421. LIMITATION ON AVAILABILITY OF FUNDS FOR OFFICE OF THE DIRECTOR OF NATIONAL INTELLIGENCE PENDING SUBMISSION OF CERTAIN DOCUMENTS AND ANNEXES.
@@ -807,13 +807,13 @@ SEC. 432. DEVELOPMENT OF PLAN TO MAKE OPEN-SOURCE INTELLIGENCE PRODUCTS AVAILABL
 
 (e) Definitions.-In this section:
 
-(1) COVERED INDIVIDUAL.-The term “covered individual” means an employee of the Federal Government-
+(1) COVERED INDIVIDUAL.-The term "covered individual" means an employee of the Federal Government-
 
 (A) who is not an employee or contractor of an element of the intelligence community; and
 
 (B) who would derive value from a covered open-source intelligence product.
 
-(2) COVERED OPEN-SOURCE INTELLIGENCE PRODUCT.-The term “covered open-source intelligence product” means an unclassified product derived from open-source intelligence that is produced by the intelligence community.
+(2) COVERED OPEN-SOURCE INTELLIGENCE PRODUCT.-The term "covered open-source intelligence product" means an unclassified product derived from open-source intelligence that is produced by the intelligence community.
 
 
 SEC. 433. INTELLIGENCE COMMUNITY-WIDE POLICY ON PREPUBLICATION REVIEW.
@@ -823,9 +823,9 @@ Not later than 30 days after the date of the enactment of this Act, the Director
 SEC. 434. REVIEW RELATING TO CONFIDENTIAL HUMAN SOURCE PROGRAM OF FEDERAL BUREAU OF INVESTIGATION.
 (a) Review By Inspector General Of Intelligence Community.-
 
-(1) REVIEW.-The Inspector General of the Intelligence Community, in coordination with the Inspector General of the Department of Justice, shall conduct a review of the policies and procedures governing the confidential human source program of the Federal Bureau of Investigation (in this section referred to as the “program)” and the compliance by the Federal Bureau of Investigation with such policies and procedures, including-
+(1) REVIEW.-The Inspector General of the Intelligence Community, in coordination with the Inspector General of the Department of Justice, shall conduct a review of the policies and procedures governing the confidential human source program of the Federal Bureau of Investigation (in this section referred to as the "program)" and the compliance by the Federal Bureau of Investigation with such policies and procedures, including-
 
-(A) the policy of the Department of Justice titled “The Attorney General’s Guidelines Regarding the Use of FBI Confidential Sources” (or successor policy); and
+(A) the policy of the Department of Justice titled "The Attorney General’s Guidelines Regarding the Use of FBI Confidential Sources" (or successor policy); and
 
 (B) Intelligence Community Directive 304 (or successor directive).
 
@@ -851,9 +851,9 @@ SEC. 434. REVIEW RELATING TO CONFIDENTIAL HUMAN SOURCE PROGRAM OF FEDERAL BUREAU
 
 (c) Definitions.-In this section:
 
-(1) IMMEDIATE FAMILY MEMBER.-The term “immediate family member” means, with respect to an individual, a spouse, domestic partner, parent, sibling, child, stepparent, stepsibling, or stepchild of the individual.
+(1) IMMEDIATE FAMILY MEMBER.-The term "immediate family member" means, with respect to an individual, a spouse, domestic partner, parent, sibling, child, stepparent, stepsibling, or stepchild of the individual.
 
-(2) NATIONAL INTELLIGENCE PROGRAM.-The term “National Intelligence Program” has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+(2) NATIONAL INTELLIGENCE PROGRAM.-The term "National Intelligence Program" has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
 
 SEC. 435. INSPECTOR GENERAL OF THE INTELLIGENCE COMMUNITY ASSESSMENT OF OVERT HUMAN INTELLIGENCE COLLECTION PROGRAM OF DEPARTMENT OF HOMELAND SECURITY.
@@ -883,7 +883,7 @@ SEC. 435. INSPECTOR GENERAL OF THE INTELLIGENCE COMMUNITY ASSESSMENT OF OVERT HU
 
 (c) Definition.-In this section:
 
-(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term “appropriate congressional committees” means the following:
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term "appropriate congressional committees" means the following:
 
 (A) The congressional intelligence committees.
 
@@ -891,15 +891,15 @@ SEC. 435. INSPECTOR GENERAL OF THE INTELLIGENCE COMMUNITY ASSESSMENT OF OVERT HU
 
 (C) The Committee on Homeland Security and Governmental Affairs of the Senate.
 
-(2) COVERED ACTIVITY.-The term “covered activity” means an activity the conduct of which under the Overt Human Intelligence Collection Program was paused in 2022 (as described in the document submitted to the Permanent Select Committee on Intelligence of the House of Representatives by the Under Secretary of Homeland Security for Intelligence and Analysis, titled “Response to Questions during HPSCI Briefing on March 7, 2023”), involving the conduct by an officer or employee of the Office of Intelligence and Analysis of an interview or other engagement for intelligence collection purposes with an individual, in connection with a criminal matter-
+(2) COVERED ACTIVITY.-The term "covered activity" means an activity the conduct of which under the Overt Human Intelligence Collection Program was paused in 2022 (as described in the document submitted to the Permanent Select Committee on Intelligence of the House of Representatives by the Under Secretary of Homeland Security for Intelligence and Analysis, titled "Response to Questions during HPSCI Briefing on March 7, 2023"), involving the conduct by an officer or employee of the Office of Intelligence and Analysis of an interview or other engagement for intelligence collection purposes with an individual, in connection with a criminal matter-
 
 (A) who has been charged, arraigned, or is in the custody of a Federal, State, or local law enforcement agency; and
 
 (B) whose guilt with respect to such matter has not yet been adjudicated.
 
-(3) OVERT HUMAN INTELLIGENCE COLLECTION PROGRAM.-The term “Overt Human Intelligence Collection Program” means the program established by the Under Secretary of Homeland Security for Intelligence and Analysis pursuant to Policy Instruction 907 of the Office of Intelligence and Analysis, issued on June 29, 2016 (or any successor program).
+(3) OVERT HUMAN INTELLIGENCE COLLECTION PROGRAM.-The term "Overt Human Intelligence Collection Program" means the program established by the Under Secretary of Homeland Security for Intelligence and Analysis pursuant to Policy Instruction 907 of the Office of Intelligence and Analysis, issued on June 29, 2016 (or any successor program).
 
-(4) UNITED STATES PERSON.-The term “United States person” has the meaning given that term in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801).
+(4) UNITED STATES PERSON.-The term "United States person" has the meaning given that term in section 101 of the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801).
 
 
 SEC. 436. INTELLIGENCE ASSESSMENTS REGARDING HAITI.
@@ -955,7 +955,7 @@ SEC. 437. INTELLIGENCE ASSESSMENT OF INFLUENCE OPERATIONS BY PEOPLE’S REPUBLIC
 
 (d) Definitions.-In this section:
 
-(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term “appropriate congressional committees” means-
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term "appropriate congressional committees" means-
 
 (A) the congressional intelligence committees;
 
@@ -963,7 +963,7 @@ SEC. 437. INTELLIGENCE ASSESSMENT OF INFLUENCE OPERATIONS BY PEOPLE’S REPUBLIC
 
 (C) the Committee on Foreign Relations of the Senate.
 
-(2) PACIFIC ISLANDS COUNTRIES.-The term “Pacific Islands countries” includes the Federated States of Micronesia, Fiji, French Polynesia, Kiribati, the Republic of the Marshall Islands, Nauru, Palau, Solomon Islands, Tonga, Samoa, Niue, Tuvalu, and Vanuatu.
+(2) PACIFIC ISLANDS COUNTRIES.-The term "Pacific Islands countries" includes the Federated States of Micronesia, Fiji, French Polynesia, Kiribati, the Republic of the Marshall Islands, Nauru, Palau, Solomon Islands, Tonga, Samoa, Niue, Tuvalu, and Vanuatu.
 
 
 SEC. 438. INDEPENDENT STUDY ON ECONOMIC IMPACT OF MILITARY INVASION OF TAIWAN BY PEOPLE’S REPUBLIC OF CHINA.
@@ -995,7 +995,7 @@ SEC. 438. INDEPENDENT STUDY ON ECONOMIC IMPACT OF MILITARY INVASION OF TAIWAN BY
 
 (3) FORM OF REPORT.-The report required under this subsection shall be submitted in unclassified form, but may include a classified annex.
 
-(d) Eligible Entity Defined.-In this section, the term “eligible entity” means a federally funded research and development center or nongovernmental entity which has-
+(d) Eligible Entity Defined.-In this section, the term "eligible entity" means a federally funded research and development center or nongovernmental entity which has-
 
 (1) a primary focus on studies and analysis;
 
@@ -1025,7 +1025,7 @@ SEC. 439. REPORTS ON CIVILIAN CASUALTIES CAUSED BY CERTAIN OPERATIONS OF FOREIGN
 
 (c) Form.-Each report required under subsection (a) may be submitted in classified form, but if so submitted shall include an unclassified executive summary.
 
-(d) Covered Operation Defined.-In this section, the term “covered operation” means an operation-
+(d) Covered Operation Defined.-In this section, the term "covered operation" means an operation-
 
 (1) conducted by a foreign government;
 
@@ -1063,7 +1063,7 @@ SEC. 440. REPORT BY DIRECTOR OF NATIONAL INTELLIGENCE ON UYGHUR GENOCIDE.
 
 (3) FORM.-The report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
-(b) Definitions.-In this section, the terms “congressional intelligence committees”, “intelligence”, “intelligence community”, and “national intelligence” have the meanings given those terms in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+(b) Definitions.-In this section, the terms "congressional intelligence committees", "intelligence", "intelligence community", and "national intelligence" have the meanings given those terms in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
 
 SEC. 441. TECHNICAL CORRECTIONS.
@@ -1071,21 +1071,21 @@ SEC. 441. TECHNICAL CORRECTIONS.
 
 (1) in section 102A(n) (50 U.S.C. 3024(n)) by redesignating the second paragraph (5) as paragraph (6);
 
-(2) in section 503(c)(3) (50 U.S.C. 3093(c)(3)), by striking “section” and inserting “subsection”;
+(2) in section 503(c)(3) (50 U.S.C. 3093(c)(3)), by striking "section" and inserting "subsection";
 
-(3) in section 805(6) (50 U.S.C. 3164(6)), by striking “sections 101 (a) and (b)” and inserting “subsections (a) and (b) of section 101”; and
+(3) in section 805(6) (50 U.S.C. 3164(6)), by striking "sections 101 (a) and (b)" and inserting "subsections (a) and (b) of section 101"; and
 
 (4) in section 1102A (50 U.S.C. 3232a)-
 
-(A) in subsection (b)(3), by striking “subsection (2)” and inserting “paragraph (1)”; and
+(A) in subsection (b)(3), by striking "subsection (2)" and inserting "paragraph (1)"; and
 
-(B) in subsection (c)(4)(C)(iv), by striking “wavier” and inserting “waiver”.
+(B) in subsection (c)(4)(C)(iv), by striking "wavier" and inserting "waiver".
 
-(b) Intelligence Authorization Act For Fiscal Year 2023.-The Intelligence Authorization Act for Fiscal Year 2023 (division F of Public Law 117–263) is amended-
+(b) Intelligence Authorization Act For Fiscal Year 2023.-The Intelligence Authorization Act for Fiscal Year 2023 (division F of Public Law 117-263) is amended-
 
-(1) in section 6422(b) (50 U.S.C. 3334l(b)), by striking “Congressional” and inserting “congressional”; and
+(1) in section 6422(b) (50 U.S.C. 3334l(b)), by striking "Congressional" and inserting "congressional"; and
 
-(2) in section 6732(b) (50 U.S.C. 3024 note; 136 Stat. 3583), by striking “paragraph (5)” and inserting “paragraph (6)”.
+(2) in section 6732(b) (50 U.S.C. 3024 note; 136 Stat. 3583), by striking "paragraph (5)" and inserting "paragraph (6)".
 
 (c) David L. Boren National Security Education Act Of 1991.-The David L. Boren National Security Education Act of 1991 (50 U.S.C. 1901 et seq.) is amended-
 
@@ -1093,82 +1093,82 @@ SEC. 441. TECHNICAL CORRECTIONS.
 
 (A) by redesignating subparagraphs (C) and (D) as subparagraphs (B) and (C), respectively; and
 
-(B) in subparagraph (B), as so redesignated, by striking “subparagraph (D)” and inserting “subparagraph (C)”;
+(B) in subparagraph (B), as so redesignated, by striking "subparagraph (D)" and inserting "subparagraph (C)";
 
-(2) in section 803(d)(9)(D) (50 U.S.C. 1903(d)(9)(D)), by striking “Local” and inserting “local”; and
+(2) in section 803(d)(9)(D) (50 U.S.C. 1903(d)(9)(D)), by striking "Local" and inserting "local"; and
 
-(3) in section 808(4)(A) (50 U.S.C. 1908(4)(A)), by striking “a agency” and inserting “an agency”.
+(3) in section 808(4)(A) (50 U.S.C. 1908(4)(A)), by striking "a agency" and inserting "an agency".
 
 (d) Central Intelligence Agency Retirement Act.-The Central Intelligence Agency Retirement Act (50 U.S.C. 2001 et seq.) is amended-
 
-(1) in section 211(c)(2)(B) (50 U.S.C. 2021(c)(2)(B)), by striking “subsection 241(c)” and inserting “section 241(c)”;
+(1) in section 211(c)(2)(B) (50 U.S.C. 2021(c)(2)(B)), by striking "subsection 241(c)" and inserting "section 241(c)";
 
-(2) in section 263(g)(1) (50 U.S.C. 2093(g)(1)), by striking “Fund” and inserting “fund”;
+(2) in section 263(g)(1) (50 U.S.C. 2093(g)(1)), by striking "Fund" and inserting "fund";
 
-(3) in section 271(b) (50 U.S.C. 2111(b)), by striking “section 231(b)” and inserting “section 231(c)”; and
+(3) in section 271(b) (50 U.S.C. 2111(b)), by striking "section 231(b)" and inserting "section 231(c)"; and
 
 (4) in section 304(c) (50 U.S.C. 2154(c))-
 
-(A) in paragraph (1)(B)(i), by striking “title 50” and inserting “title 5”; and
+(A) in paragraph (1)(B)(i), by striking "title 50" and inserting "title 5"; and
 
-(B) in paragraph (5)(A)(ii), by striking “sections” and inserting “section”.
+(B) in paragraph (5)(A)(ii), by striking "sections" and inserting "section".
 
 (e) Intelligence Reform And Terrorism Prevention Act Of 2004.-Section 3001 of the Intelligence Reform and Terrorism Prevention Act of 2004 (50 U.S.C. 3341) is amended-
 
 (1) in subsection (a)-
 
-(A) in paragraph (4)(B)(i), by striking the semicolon and inserting “);”; and
+(A) in paragraph (4)(B)(i), by striking the semicolon and inserting ");"; and
 
-(B) in paragraph (9)(A), by striking “with industry” and inserting “within industry”; and
+(B) in paragraph (9)(A), by striking "with industry" and inserting "within industry"; and
 
-(2) in subsection (j)(1)(C)(i), by striking “(d),” and all that follows through “section 8H” and inserting “(d), and (h) of section 8H”.
+(2) in subsection (j)(1)(C)(i), by striking "(d)," and all that follows through "section 8H" and inserting "(d), and (h) of section 8H".
 
-(f) Intelligence Authorization Act For Fiscal Year 2003.-The Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 116 Stat. 2383) is amended-
+(f) Intelligence Authorization Act For Fiscal Year 2003.-The Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107-306; 116 Stat. 2383) is amended-
 
 (1) in section 313(d)(3)(B) (50 U.S.C. 3361(d)(3)(B)), by adding a period at the end; and
 
-(2) in section 343(d)(1) (50 U.S.C. 3363(d)(1)), by striking “Not later then” and inserting “Not later than”.
+(2) in section 343(d)(1) (50 U.S.C. 3363(d)(1)), by striking "Not later then" and inserting "Not later than".
 
 (g) Central Intelligence Agency Act Of 1949.-The Central Intelligence Agency Act of 1949 (50 U.S.C. 3501 et seq.) is amended-
 
 (1) in section 4-
 
-(A) in subsection (a)(1)(E) (50 U.S.C. 3505(a)(1)(E)), by striking the period at the end and inserting “; and”; and
+(A) in subsection (a)(1)(E) (50 U.S.C. 3505(a)(1)(E)), by striking the period at the end and inserting "; and"; and
 
-(B) in subsection (b)(2) (50 U.S.C. 3505(b)(2)), by striking “authorized by section” and inserting “authorized by sections”;
+(B) in subsection (b)(2) (50 U.S.C. 3505(b)(2)), by striking "authorized by section" and inserting "authorized by sections";
 
-(2) in section 6 (50 U.S.C. 3507), by striking “or of the, names” and inserting “or of the names”;
+(2) in section 6 (50 U.S.C. 3507), by striking "or of the, names" and inserting "or of the names";
 
-(3) in section 12(a)(2)(A) (50 U.S.C. 3512(a)(2)(A)), by striking “used only for-"” and inserting “used only for-”;
+(3) in section 12(a)(2)(A) (50 U.S.C. 3512(a)(2)(A)), by striking "used only for-"" and inserting "used only for-";
 
 (4) in section 17-
 
 (A) in subsection (d)(5)(B)(ii) (50 U.S.C. 3517(d)(5)(B)(ii)), by adding a period at the end; and
 
-(B) in subsection (e)(4) (50 U.S.C. 3517(e)(4)), by striking “which oath affirmation, or affidavit” and inserting “which oath, affirmation, or affidavit”; and
+(B) in subsection (e)(4) (50 U.S.C. 3517(e)(4)), by striking "which oath affirmation, or affidavit" and inserting "which oath, affirmation, or affidavit"; and
 
-(5) in section 19(a)(2) (50 U.S.C. 3519(a)(2)), by striking “, as a participant” and inserting “as a participant”.
+(5) in section 19(a)(2) (50 U.S.C. 3519(a)(2)), by striking ", as a participant" and inserting "as a participant".
 
-(h) Central Intelligence Agency Voluntary Separation Pay Act.-Section 2(a)(1) of the Central Intelligence Agency Voluntary Separation Pay Act (50 U.S.C. 3519a(a)(1)) is amended by adding “and” at the end.
+(h) Central Intelligence Agency Voluntary Separation Pay Act.-Section 2(a)(1) of the Central Intelligence Agency Voluntary Separation Pay Act (50 U.S.C. 3519a(a)(1)) is amended by adding "and" at the end.
 
-(i) National Security Agency Act Of 1959.-Section 16(d)(1) of the National Security Agency Act of 1959 (50 U.S.C. 3614(d)(1)) is amended by striking “program participant,” and inserting “program participant”.
+(i) National Security Agency Act Of 1959.-Section 16(d)(1) of the National Security Agency Act of 1959 (50 U.S.C. 3614(d)(1)) is amended by striking "program participant," and inserting "program participant".
 
-(j) Intelligence Authorization Act For Fiscal Year 1995.-Section 811(e)(7) of the Intelligence Authorization Act for Fiscal Year 1995 (50 U.S.C. 3381(e)(7)) is amended by striking “sections 101 (a) and (b)” and inserting “subsections (a) and (b) of section 101”.
+(j) Intelligence Authorization Act For Fiscal Year 1995.-Section 811(e)(7) of the Intelligence Authorization Act for Fiscal Year 1995 (50 U.S.C. 3381(e)(7)) is amended by striking "sections 101 (a) and (b)" and inserting "subsections (a) and (b) of section 101".
 
 (k) Coordination With Other Amendments Made By This Act.-For purposes of applying amendments made by provisions of this Act other than this section, the amendments made by this section shall be treated as having been enacted immediately before any such amendments by other provisions of this Act.
 
 TITLE V-MATTERS RELATING TO DEFENSE INTELLIGENCE AND OVERHEAD ARCHITECTURE
 
 SEC. 501. EXTENSION OF AUTHORITY TO ENGAGE IN COMMERCIAL ACTIVITIES AS SECURITY FOR INTELLIGENCE COLLECTION ACTIVITIES.
-Section 431(a) of title 10, United States Code, is amended by striking “December 31, 2023” and inserting “December 31, 2024”.
+Section 431(a) of title 10, United States Code, is amended by striking "December 31, 2023" and inserting "December 31, 2024".
 
 
 SEC. 502. MODIFICATION OF REPORTING REQUIREMENT FOR ALL-DOMAIN ANOMALY RESOLUTION OFFICE.
-Section 1683(k)(1) of the National Defense Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373(k)(1)), as amended by section 6802(a) of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263), is further amended-
+Section 1683(k)(1) of the National Defense Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373(k)(1)), as amended by section 6802(a) of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263), is further amended-
 
-(1) in the heading, by striking “DIRECTOR OF NATIONAL INTELLIGENCE AND SECRETARY OF DEFENSE” and inserting “ALL-DOMAIN ANOMALY RESOLUTION OFFICE”; and
+(1) in the heading, by striking "DIRECTOR OF NATIONAL INTELLIGENCE AND SECRETARY OF DEFENSE" and inserting "ALL-DOMAIN ANOMALY RESOLUTION OFFICE"; and
 
-(2) in subparagraph (A), by striking “Director of National Intelligence and the Secretary of Defense shall jointly” and inserting “Director of the Office shall”.
+(2) in subparagraph (A), by striking "Director of National Intelligence and the Secretary of Defense shall jointly" and inserting "Director of the Office shall".
 
 
 SEC. 503. MILITARY INTELLIGENCE COLLECTION AND ANALYSIS PARTNERSHIPS.
@@ -1194,7 +1194,7 @@ SEC. 503. MILITARY INTELLIGENCE COLLECTION AND ANALYSIS PARTNERSHIPS.
 
 (2) EXCEPTION.-A military intelligence collection and analysis activity for which funds have been obligated under this section before the date on which the authority to carry out this section terminates under paragraph (1) may continue until the completion of the activity.
 
-(g) Military Intelligence Collection And Analysis Activity Defined.-In this section, the term “military intelligence collection and analysis activity” means-
+(g) Military Intelligence Collection And Analysis Activity Defined.-In this section, the term "military intelligence collection and analysis activity" means-
 
 (1) the conduct of a combined human intelligence and counterintelligence activity;
 
@@ -1248,13 +1248,13 @@ SEC. 505. DEFENSE INTELLIGENCE AGENCY ASSESSMENT OF STRATEGIC COMPETITION IN LAT
 
 (e) Definitions.-In this section:
 
-(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term “appropriate congressional committees” means the following:
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term "appropriate congressional committees" means the following:
 
 (A) The congressional intelligence committees.
 
 (B) The congressional defense committees, as such term is defined in section 101(a) of title 10, United States Code.
 
-(2) COVERED COUNTRY.-The term “covered country” means Mexico and each foreign country or territory in Central or South America or in the Caribbean.
+(2) COVERED COUNTRY.-The term "covered country" means Mexico and each foreign country or territory in Central or South America or in the Caribbean.
 
 
 SEC. 506. QUARTERLY BRIEFINGS RELATING TO USE OF MILITARY INTELLIGENCE PROGRAM FUNDS.
@@ -1269,41 +1269,41 @@ TITLE VI-MATTERS RELATING TO NATIONAL SECURITY AGENCY, CYBER, AND COMMERCIAL CLO
 SEC. 601. CONGRESSIONAL NOTIFICATION BY NATIONAL SECURITY AGENCY OF INTELLIGENCE COLLECTION ADJUSTMENTS.
 The National Security Agency Act of 1959 (50 U.S.C. 3601 et seq.) is amended by adding at the end the following new section:
 
-“SEC. 22. CONGRESSIONAL NOTIFICATION OF INTELLIGENCE COLLECTION ADJUSTMENTS.
+"SEC. 22. CONGRESSIONAL NOTIFICATION OF INTELLIGENCE COLLECTION ADJUSTMENTS.
 
-“(a) Notification.-Not later than 30 days after the date on which the Director of the National Security Agency determines the occurrence of an intelligence collection adjustment, the Director shall submit to the congressional intelligence committees a notification of the intelligence collection adjustment.
+"(a) Notification.-Not later than 30 days after the date on which the Director of the National Security Agency determines the occurrence of an intelligence collection adjustment, the Director shall submit to the congressional intelligence committees a notification of the intelligence collection adjustment.
 
-“(b) Definitions.-In this section:
+"(b) Definitions.-In this section:
 
-“(1) CONGRESSIONAL INTELLIGENCE COMMITTEES.-The term ‘congressional intelligence committees’ has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
+"(1) CONGRESSIONAL INTELLIGENCE COMMITTEES.-The term ‘congressional intelligence committees’ has the meaning given that term in section 3 of the National Security Act of 1947 (50 U.S.C. 3003).
 
-“(2) INTELLIGENCE COLLECTION ADJUSTMENT.-The term ‘intelligence collection adjustment’ includes a change by the United States Government to a policy on intelligence collection or the prioritization thereof that results in a significant loss of intelligence.”.
+"(2) INTELLIGENCE COLLECTION ADJUSTMENT.-The term ‘intelligence collection adjustment’ includes a change by the United States Government to a policy on intelligence collection or the prioritization thereof that results in a significant loss of intelligence.".
 
 
 SEC. 602. MODIFICATIONS TO ENFORCEMENT OF CYBERSECURITY REQUIREMENTS FOR NATIONAL SECURITY SYSTEMS.
-Section 6309 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263) is amended-
+Section 6309 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263) is amended-
 
 (1) by redesignating subsection (e) as subsection (f); and
 
 (2) by inserting after subsection (d) the following new subsection:
 
-“(e) Implementation Report.-Each head of an element of the intelligence community that owns or operates a national security system shall submit to the congressional intelligence committees not later than 90 days after the date of the enactment of this subsection a plan detailing the cost and schedule requirements necessary to meet all of the cybersecurity requirements for national security systems by the end of fiscal year 2026.”.
+"(e) Implementation Report.-Each head of an element of the intelligence community that owns or operates a national security system shall submit to the congressional intelligence committees not later than 90 days after the date of the enactment of this subsection a plan detailing the cost and schedule requirements necessary to meet all of the cybersecurity requirements for national security systems by the end of fiscal year 2026.".
 
 
 SEC. 603. SUPPORT BY INTELLIGENCE COMMUNITY FOR CERTAIN CROSS-FUNCTIONAL TEAM OF DEPARTMENT OF DEFENSE.
-(a) Access To Information.-Upon request by the cross-functional team of the Department of Defense established under section 910 of the National Defense Authorization Act of Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 111 note) (in this section referred to as the “cross-functional team”), and consistent with the protection of intelligence sources and methods, the head of any element of the intelligence community shall provide such team with access to any information (including any intelligence reporting, analysis, or finished intelligence product) of the element potentially relevant to the duties of such team required under subsection (b)(1) of such section.
+(a) Access To Information.-Upon request by the cross-functional team of the Department of Defense established under section 910 of the National Defense Authorization Act of Fiscal Year 2022 (Public Law 117-81; 10 U.S.C. 111 note) (in this section referred to as the "cross-functional team"), and consistent with the protection of intelligence sources and methods, the head of any element of the intelligence community shall provide such team with access to any information (including any intelligence reporting, analysis, or finished intelligence product) of the element potentially relevant to the duties of such team required under subsection (b)(1) of such section.
 
-(b) Rule Of Construction.-Nothing in subsection (a) shall be construed as waiving the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) or any other applicable law regarding privacy or the protection of health information.
+(b) Rule Of Construction.-Nothing in subsection (a) shall be construed as waiving the Health Insurance Portability and Accountability Act of 1996 (Public Law 104-191) or any other applicable law regarding privacy or the protection of health information.
 
 (c) Staffing Of Cross-Functional Team By Certain Elements.-
 
-(1) STAFFING.-The head of each covered element shall detail or assign to the cross-functional team, including through a joint duty assignment (as applicable), intelligence or counterintelligence personnel of that covered element in such numbers as the head, in consultation with such team, determines necessary to support such team in fulfilling the duties required under section 910(b)(1) of the National Defense Authorization Act of Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 111 note).
+(1) STAFFING.-The head of each covered element shall detail or assign to the cross-functional team, including through a joint duty assignment (as applicable), intelligence or counterintelligence personnel of that covered element in such numbers as the head, in consultation with such team, determines necessary to support such team in fulfilling the duties required under section 910(b)(1) of the National Defense Authorization Act of Fiscal Year 2022 (Public Law 117-81; 10 U.S.C. 111 note).
 
 (2) NATIONAL SECURITY AGENCY.-In carrying out paragraph (1) with respect to the National Security Agency, the Director of the National Security Agency shall ensure there is detailed or assigned to the cross-functional team at least 1 individual determined appropriate by the Director, who, while so detailed or assigned, shall provide such team with technical expertise of the National Security Agency relevant to the fulfilment of the duties referred to in paragraph (1).
 
 (d) Additional Detail Authority.-Upon request by the cross-functional team, the head of any element of the intelligence community may detail to such team personnel of the element to provide intelligence, counterintelligence, or related support.
 
-(e) Covered Element Defined.-In this section, the term “covered element” means the following:
+(e) Covered Element Defined.-In this section, the term "covered element" means the following:
 
 (1) The National Security Agency.
 
@@ -1368,51 +1368,51 @@ TITLE VII-MATTERS RELATING TO CENTRAL INTELLIGENCE AGENCY
 SEC. 701. INSPECTOR GENERAL OF THE CENTRAL INTELLIGENCE AGENCY QUARTERLY EMPLOYEE ENGAGEMENT SUMMARIES.
 Section 17 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 3517) is amended by adding at the end the following new subsection:
 
-“(i) Quarterly Employee Engagement Summaries.- (1) Not later than 30 days after the last day of each fiscal quarter, the Inspector General shall provide to the appropriate congressional committees a summary of the engagement of Agency employees with the Inspector General during that quarter.
+"(i) Quarterly Employee Engagement Summaries.- (1) Not later than 30 days after the last day of each fiscal quarter, the Inspector General shall provide to the appropriate congressional committees a summary of the engagement of Agency employees with the Inspector General during that quarter.
 
-“(2) Each summary required under paragraph (1) shall include each of the following for the quarter covered by the summary:
+"(2) Each summary required under paragraph (1) shall include each of the following for the quarter covered by the summary:
 
-“(A) The total number of reports filed with the Inspector General by Agency employees.
+"(A) The total number of reports filed with the Inspector General by Agency employees.
 
-“(B) An identification of the nature of the allegation made in each such report, such as-
+"(B) An identification of the nature of the allegation made in each such report, such as-
 
-“(i) fraud, waste, and abuse;
+"(i) fraud, waste, and abuse;
 
-“(ii) harassment or other personnel issues;
+"(ii) harassment or other personnel issues;
 
-“(iii) questionable intelligence activities; or
+"(iii) questionable intelligence activities; or
 
-“(iv) threats to health and safety.
+"(iv) threats to health and safety.
 
-“(C) For each such report-
+"(C) For each such report-
 
-“(i) whether an investigation was initiated because of the report;
+"(i) whether an investigation was initiated because of the report;
 
-“(ii) for any such investigation, whether the status of the investigation is initiated, in progress, or complete; and
+"(ii) for any such investigation, whether the status of the investigation is initiated, in progress, or complete; and
 
-“(iii) for any completed investigation, whether the allegation made in the report was found to be substantiated or unsubstantiated, and whether any recommendations or criminal referrals were made as a result.
+"(iii) for any completed investigation, whether the allegation made in the report was found to be substantiated or unsubstantiated, and whether any recommendations or criminal referrals were made as a result.
 
-“(D) A copy of any audit, assessment, inspection, or other final report completed by the Inspector General during the quarter covered by the summary.
+"(D) A copy of any audit, assessment, inspection, or other final report completed by the Inspector General during the quarter covered by the summary.
 
-“(3) In this subsection, the term ‘appropriate congressional committees’ means-
+"(3) In this subsection, the term ‘appropriate congressional committees’ means-
 
-“(A) the Permanent Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives; and
+"(A) the Permanent Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives; and
 
-“(B) the Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the Senate.”.
+"(B) the Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the Senate.".
 
 
 SEC. 702. IMPROVED FUNDING FLEXIBILITY FOR PAYMENTS MADE BY CENTRAL INTELLIGENCE AGENCY FOR QUALIFYING INJURIES TO BRAIN.
 Section 19A(d) of the Central Intelligence Agency Act of 1949 (50 U.S.C. 3519b(d)) is amended by striking paragraph (3) and inserting the following new paragraph:
 
-“(3) FUNDING.-
+"(3) FUNDING.-
 
-“(A) IN GENERAL.-Payment under paragraph (2) in a fiscal year may be made using any amounts-
+"(A) IN GENERAL.-Payment under paragraph (2) in a fiscal year may be made using any amounts-
 
-“(i) appropriated in advance specifically for payments under such paragraph; or
+"(i) appropriated in advance specifically for payments under such paragraph; or
 
-“(ii) reprogrammed in accordance with section 504 of the National Security Act of 1947 (50 U.S.C. 3094).
+"(ii) reprogrammed in accordance with section 504 of the National Security Act of 1947 (50 U.S.C. 3094).
 
-“(B) BUDGET.-For each fiscal year, the Director shall include with the budget justification materials submitted to Congress in support of the budget of the President for that fiscal year pursuant to section 1105(a) of title 31, United States Code, an estimate of the amounts required in that fiscal year to make payments under paragraph (2).”.
+"(B) BUDGET.-For each fiscal year, the Director shall include with the budget justification materials submitted to Congress in support of the budget of the President for that fiscal year pursuant to section 1105(a) of title 31, United States Code, an estimate of the amounts required in that fiscal year to make payments under paragraph (2).".
 
 
 SEC. 703. BENJAMIN TALLMADGE INSTITUTE AS PRIMARY CENTRAL INTELLIGENCE AGENCY ENTITY FOR EDUCATION AND TRAINING IN COUNTERINTELLIGENCE.
@@ -1502,7 +1502,7 @@ SEC. 705. CENTRAL INTELLIGENCE AGENCY INTELLIGENCE ASSESSMENT WITH RESPECT TO EF
 
 (d) Definitions.-In this section:
 
-(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term “appropriate congressional committees” means the following:
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term "appropriate congressional committees" means the following:
 
 (A) The congressional intelligence committees.
 
@@ -1512,7 +1512,7 @@ SEC. 705. CENTRAL INTELLIGENCE AGENCY INTELLIGENCE ASSESSMENT WITH RESPECT TO EF
 
 (D) The Select Committee on the Strategic Competition Between the United States and the Chinese Communist Party of the House of Representatives.
 
-(2) COUNTRIES IN THE MIDDLE EAST.-The term “countries in the Middle East” means-
+(2) COUNTRIES IN THE MIDDLE EAST.-The term "countries in the Middle East" means-
 
 (A) Algeria;
 
@@ -1568,15 +1568,15 @@ SEC. 706. ASSESSMENT OF AVAILABILITY OF MENTAL HEALTH AND CHAPLAIN SERVICES TO A
 
 (c) Definitions.-In this section:
 
-(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term “appropriate congressional committees” means-
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term "appropriate congressional committees" means-
 
 (A) the Permanent Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives; and
 
 (B) the Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the Senate.
 
-(2) CHAPLAIN.-The term “chaplain” means a member of the Chaplain Corps, as established under section 26 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 3527), whom the Director has certified as meeting common standards for professional chaplaincy and board certification by a national chaplaincy and pastoral care organization or equivalent.
+(2) CHAPLAIN.-The term "chaplain" means a member of the Chaplain Corps, as established under section 26 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 3527), whom the Director has certified as meeting common standards for professional chaplaincy and board certification by a national chaplaincy and pastoral care organization or equivalent.
 
-(3) MENTAL HEALTH PROFESSIONAL.-The term “mental health professional” means an appropriately trained and certified professional counselor, medical professional, psychologist, psychiatrist, or other appropriate employee, as determined by the Director.
+(3) MENTAL HEALTH PROFESSIONAL.-The term "mental health professional" means an appropriately trained and certified professional counselor, medical professional, psychologist, psychiatrist, or other appropriate employee, as determined by the Director.
 
 
 SEC. 707. ASSESSMENT BY DIRECTOR OF CENTRAL INTELLIGENCE AGENCY ON CERTAIN EFFECTS OF ABRAHAM ACCORDS.
@@ -1611,299 +1611,299 @@ SEC. 801. REPORTING AND INVESTIGATION OF ALLEGATIONS OF SEX-RELATED OFFENSES AND
 
 (b) Sex-Related Offenses And Sexual Harassment Within The Agency.-The Central Intelligence Agency Act of 1949 (50 U.S.C. 3501 et seq.) is amended by adding at the end the following new section:
 
-“SEC. 30. SEX-RELATED OFFENSES AND SEXUAL HARASSMENT WITHIN THE AGENCY.
+"SEC. 30. SEX-RELATED OFFENSES AND SEXUAL HARASSMENT WITHIN THE AGENCY.
 
-“(a) Responsibilities Of Director.-The Director shall carry out the following responsibilities:
+"(a) Responsibilities Of Director.-The Director shall carry out the following responsibilities:
 
-“(1) Establishing professional and uniform training for employees assigned to working with all aspects of the response of the Agency to allegations of sex-related offenses and sexual harassment.
+"(1) Establishing professional and uniform training for employees assigned to working with all aspects of the response of the Agency to allegations of sex-related offenses and sexual harassment.
 
-“(2) Developing and implementing policies and procedures to protect the confidentiality of employees who report sex-related offenses or sexual harassment and to mitigate negative effects on the reputation or career of such an employee as a result of such a report.
+"(2) Developing and implementing policies and procedures to protect the confidentiality of employees who report sex-related offenses or sexual harassment and to mitigate negative effects on the reputation or career of such an employee as a result of such a report.
 
-“(3) Developing and implementing documented standards for-
+"(3) Developing and implementing documented standards for-
 
-“(A) appropriate mitigation and protection measures for individuals who make allegations of a sex-related offense or sexual harassment to be put in place while an investigation proceeds;
+"(A) appropriate mitigation and protection measures for individuals who make allegations of a sex-related offense or sexual harassment to be put in place while an investigation proceeds;
 
-“(B) appropriate employee consequences to be imposed as a result of an inquiry or investigation into a substantiated allegation of a sex-related offense or sexual harassment;
+"(B) appropriate employee consequences to be imposed as a result of an inquiry or investigation into a substantiated allegation of a sex-related offense or sexual harassment;
 
-“(C) appropriate career path protection for all employees involved in an incident resulting in a reported allegation of a sex-related offense or sexual harassment while an investigation or review of the allegation is pending; and
+"(C) appropriate career path protection for all employees involved in an incident resulting in a reported allegation of a sex-related offense or sexual harassment while an investigation or review of the allegation is pending; and
 
-“(D) mitigation measures to protect employees and mission execution while such allegations are being addressed.
+"(D) mitigation measures to protect employees and mission execution while such allegations are being addressed.
 
-“(4) Articulating and enforcing norms, expectations, practices, and policies, including with respect to employee promotions and assignments, that are published for the workforce and designed to promote a healthy workplace culture that is inhospitable to sex-related offenses and sexual harassment.
+"(4) Articulating and enforcing norms, expectations, practices, and policies, including with respect to employee promotions and assignments, that are published for the workforce and designed to promote a healthy workplace culture that is inhospitable to sex-related offenses and sexual harassment.
 
-“(5) Developing and issuing workforce messaging to inform Agency employees of policies, procedures, resources, and points of contact to obtain information related to, or to report, sex-related offenses or sexual harassment globally.
+"(5) Developing and issuing workforce messaging to inform Agency employees of policies, procedures, resources, and points of contact to obtain information related to, or to report, sex-related offenses or sexual harassment globally.
 
-“(6) Developing and implementing sex-related offense and sexual harassment training for all Agency employees that-
+"(6) Developing and implementing sex-related offense and sexual harassment training for all Agency employees that-
 
-“(A) is designed to strengthen individual knowledge, skills, and capacity to prevent and respond to sex-related offenses and sexual harassment;
+"(A) is designed to strengthen individual knowledge, skills, and capacity to prevent and respond to sex-related offenses and sexual harassment;
 
-“(B) includes initial entry and accession programs, annual refresher training, and specialized leadership training; and
+"(B) includes initial entry and accession programs, annual refresher training, and specialized leadership training; and
 
-“(C) includes details of the definitions of sex-related offense and sexual harassment, the distinction between such terms, and what does or does not constitute each.
+"(C) includes details of the definitions of sex-related offense and sexual harassment, the distinction between such terms, and what does or does not constitute each.
 
-“(7) Developing and implementing processes and procedures applicable to personnel involved in providing the training referred to in paragraph (6) that-
+"(7) Developing and implementing processes and procedures applicable to personnel involved in providing the training referred to in paragraph (6) that-
 
-“(A) are designed to ensure seamless policy consistency and reporting mechanisms in all training environments; and
+"(A) are designed to ensure seamless policy consistency and reporting mechanisms in all training environments; and
 
-“(B) include requirements for in-person training that-
+"(B) include requirements for in-person training that-
 
-“(i) covers the reporting processes for sex-related offenses and sexual harassment that are specific to training environments for students and trainers; and
+"(i) covers the reporting processes for sex-related offenses and sexual harassment that are specific to training environments for students and trainers; and
 
-“(ii) shall be provided at an appropriate time during the first 5 days of any extended or residential training course.
+"(ii) shall be provided at an appropriate time during the first 5 days of any extended or residential training course.
 
-“(8) Developing and implementing, in consultation with the Victim Advocacy Specialists of the Federal Bureau of Investigation, appropriate training requirements, policies, and procedures applicable to all employees whose professional responsibilities include interaction with people making reports alleging sex-related offenses or sexual harassment.
+"(8) Developing and implementing, in consultation with the Victim Advocacy Specialists of the Federal Bureau of Investigation, appropriate training requirements, policies, and procedures applicable to all employees whose professional responsibilities include interaction with people making reports alleging sex-related offenses or sexual harassment.
 
-“(9) Developing and implementing procedures under which current and former employees of the Agency are able to obtain documents and records, as appropriate and upon request, that are related to a report of an allegation of a sex-related offense or sexual harassment.
+"(9) Developing and implementing procedures under which current and former employees of the Agency are able to obtain documents and records, as appropriate and upon request, that are related to a report of an allegation of a sex-related offense or sexual harassment.
 
-“(10) Developing and implementing procedures under which an employee who makes a restricted or unrestricted report containing an allegation of a sex-related offense or sexual harassment may transfer out of the current assignment or location of the employee, upon the request of the employee making the report. Such procedures shall ensure that an employee who makes a restricted report maintains the privilege against disclosure, strict confidentiality, and with such employee maintaining full control over all decisions related to any further dissemination of the report.
+"(10) Developing and implementing procedures under which an employee who makes a restricted or unrestricted report containing an allegation of a sex-related offense or sexual harassment may transfer out of the current assignment or location of the employee, upon the request of the employee making the report. Such procedures shall ensure that an employee who makes a restricted report maintains the privilege against disclosure, strict confidentiality, and with such employee maintaining full control over all decisions related to any further dissemination of the report.
 
-“(11) Developing policies and procedures for the Office of the Victim and Whistleblower Counsel and the Special Victim Investigator, as applicable, to facilitate outside engagement requests of employees reporting allegations of sex-related offenses or sexual harassment.
+"(11) Developing policies and procedures for the Office of the Victim and Whistleblower Counsel and the Special Victim Investigator, as applicable, to facilitate outside engagement requests of employees reporting allegations of sex-related offenses or sexual harassment.
 
-“(12) Coordinating the response of the Agency to allegations of sex-related offenses and sexual harassment.
+"(12) Coordinating the response of the Agency to allegations of sex-related offenses and sexual harassment.
 
-“(b) Biannual Report.-Not less frequently than once every 180 days, the Director shall submit to the appropriate congressional committees a report on the activities of the Office of Equal Employment Opportunity and the Sexual Assault Prevention and Response Office during the period covered by the report. The Director shall personally review, approve, and submit each report under this subsection on a nondelegable basis. Each such report shall include-
+"(b) Biannual Report.-Not less frequently than once every 180 days, the Director shall submit to the appropriate congressional committees a report on the activities of the Office of Equal Employment Opportunity and the Sexual Assault Prevention and Response Office during the period covered by the report. The Director shall personally review, approve, and submit each report under this subsection on a nondelegable basis. Each such report shall include-
 
-“(1) for the period covered by the report-
+"(1) for the period covered by the report-
 
-“(A) the number of new allegations of sex-related offenses and sexual harassment reported to either such Office, disaggregated by restricted and unrestricted reports;
+"(A) the number of new allegations of sex-related offenses and sexual harassment reported to either such Office, disaggregated by restricted and unrestricted reports;
 
-“(B) the number of employees seeking legal assistance or services from either such Office;
+"(B) the number of employees seeking legal assistance or services from either such Office;
 
-“(C) the number of new or ongoing cases in which either such Office has provided services;
+"(C) the number of new or ongoing cases in which either such Office has provided services;
 
-“(D) a description of all training activities related to sex-related offenses and sexual harassment carried out Agency-wide, and the number of such trainings conducted; and
+"(D) a description of all training activities related to sex-related offenses and sexual harassment carried out Agency-wide, and the number of such trainings conducted; and
 
-“(2) for the period beginning on the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2024 and ending on the last day of the period covered by the report-
+"(2) for the period beginning on the date of the enactment of the Intelligence Authorization Act for Fiscal Year 2024 and ending on the last day of the period covered by the report-
 
-“(A) the total number of allegations of sex-related offenses and sexual harassment;
+"(A) the total number of allegations of sex-related offenses and sexual harassment;
 
-“(B) the disposition of each report of such an allegation;
+"(B) the disposition of each report of such an allegation;
 
-“(C) any corrective action taken in response to each such report;
+"(C) any corrective action taken in response to each such report;
 
-“(D) the number of such allegations that were not substantiated; and
+"(D) the number of such allegations that were not substantiated; and
 
-“(E) the number of employee reassignment and relocation requests, including-
+"(E) the number of employee reassignment and relocation requests, including-
 
-“(i) the number of such requests that were granted;
+"(i) the number of such requests that were granted;
 
-“(ii) the number of such requests that were denied; and
+"(ii) the number of such requests that were denied; and
 
-“(iii) for any such request that was denied, the position of the individual who denied the request and the reason for denial.
+"(iii) for any such request that was denied, the position of the individual who denied the request and the reason for denial.
 
-“(c) Applicability.-The policies developed pursuant to this section shall apply to each of the following:
+"(c) Applicability.-The policies developed pursuant to this section shall apply to each of the following:
 
-“(1) Any employee of the Agency.
+"(1) Any employee of the Agency.
 
-“(2) Any employee of an entity that has entered into a contract with the Agency under which the employee performs functions at a facility associated with the Agency or functions associated with the Agency.
+"(2) Any employee of an entity that has entered into a contract with the Agency under which the employee performs functions at a facility associated with the Agency or functions associated with the Agency.
 
-“(3) Any person who alleges they were sexually assaulted or harassed by an employee referred to in paragraph (1) or (2) at a facility associated with the Agency or during the performance of a function associated with the Agency.”.
+"(3) Any person who alleges they were sexually assaulted or harassed by an employee referred to in paragraph (1) or (2) at a facility associated with the Agency or during the performance of a function associated with the Agency.".
 
 (c) Victim And Whistleblower Counsel.-Such Act is further amended by adding at the end the following new section:
 
-“SEC. 31. VICTIM AND WHISTLEBLOWER COUNSEL.
+"SEC. 31. VICTIM AND WHISTLEBLOWER COUNSEL.
 
-“(a) Establishment.-The Director shall establish an Office of the Victim and Whistleblower Counsel. The head of the Office shall be the Victim and Whistleblower Counsel who shall report directly to the Chief Operating Officer of the Agency. The Office shall have the authority of an independent office within the Agency.
+"(a) Establishment.-The Director shall establish an Office of the Victim and Whistleblower Counsel. The head of the Office shall be the Victim and Whistleblower Counsel who shall report directly to the Chief Operating Officer of the Agency. The Office shall have the authority of an independent office within the Agency.
 
-“(b) Responsibilities.-The Victim and Whistleblower Counsel shall carry out the following responsibilities:
+"(b) Responsibilities.-The Victim and Whistleblower Counsel shall carry out the following responsibilities:
 
-“(1) Providing legal assistance and consultation to employees of the Agency who are victims of alleged sex-related offenses or sexual harassment, regardless of whether the report of that offense is restricted or unrestricted.
+"(1) Providing legal assistance and consultation to employees of the Agency who are victims of alleged sex-related offenses or sexual harassment, regardless of whether the report of that offense is restricted or unrestricted.
 
-“(2) Acting as the primary point of contact and entry point for Agency employees with respect to all allegations of, or concerns regarding, sex-related offenses and sexual harassment.
+"(2) Acting as the primary point of contact and entry point for Agency employees with respect to all allegations of, or concerns regarding, sex-related offenses and sexual harassment.
 
-“(3) Managing the victim advocacy activities of the Agency for employees reporting sex-related offenses or sexual harassment.
+"(3) Managing the victim advocacy activities of the Agency for employees reporting sex-related offenses or sexual harassment.
 
-“(4) Maintaining, and making available to Agency employees the following:
+"(4) Maintaining, and making available to Agency employees the following:
 
-“(A) A list of physicians and mental health care providers (including from the private sector, as applicable) who have experience with the physical and mental health care needs of the Agency workforce.
+"(A) A list of physicians and mental health care providers (including from the private sector, as applicable) who have experience with the physical and mental health care needs of the Agency workforce.
 
-“(B) A list of chaplains and religious counselors who have experience with the needs of the Agency workforce, including information regarding access to the Chaplain Corps established under section 26 of this Act.
+"(B) A list of chaplains and religious counselors who have experience with the needs of the Agency workforce, including information regarding access to the Chaplain Corps established under section 26 of this Act.
 
-“(C) Information regarding how to select and retain private attorneys who have experience with the legal needs of the Agency workforce, including detailed information on the process for the appropriate sharing of information with retained private attorneys.
+"(C) Information regarding how to select and retain private attorneys who have experience with the legal needs of the Agency workforce, including detailed information on the process for the appropriate sharing of information with retained private attorneys.
 
-“(5) Facilitating communications with the Inspector General, Congress, and other outside entities.
+"(5) Facilitating communications with the Inspector General, Congress, and other outside entities.
 
-“(c) Rule Of Construction.-The inclusion of any person on a list maintained or made available pursuant to subsection (b)(4) shall not be construed as an endorsement of such person (or any service furnished by such person), and the Victim and Whistleblower Counsel shall not be liable, as a result of such inclusion, for any portion of compensable injury, loss, or damage attributable to such person or service.
+"(c) Rule Of Construction.-The inclusion of any person on a list maintained or made available pursuant to subsection (b)(4) shall not be construed as an endorsement of such person (or any service furnished by such person), and the Victim and Whistleblower Counsel shall not be liable, as a result of such inclusion, for any portion of compensable injury, loss, or damage attributable to such person or service.
 
-“(d) Communications.-The relationship between the Victim and Whistleblower Counsel and a victim in the provision of legal assistance and consultation shall be the relationship between an attorney and client.
+"(d) Communications.-The relationship between the Victim and Whistleblower Counsel and a victim in the provision of legal assistance and consultation shall be the relationship between an attorney and client.
 
-“(e) Purpose.-The Office of the Victim and Whistleblower Counsel shall-
+"(e) Purpose.-The Office of the Victim and Whistleblower Counsel shall-
 
-“(1) solely function as an advocate for employees and not as an advocate for the Agency itself; and
+"(1) solely function as an advocate for employees and not as an advocate for the Agency itself; and
 
-“(2) not be a proponent of Agency policies for sex-related offenses or sexual harassment.”.
+"(2) not be a proponent of Agency policies for sex-related offenses or sexual harassment.".
 
 (d) Reporting And Investigation Of Allegations Of Sex-Related Offenses And Sexual Harassment.-Such Act is further amended by adding at the end the following new section:
 
-“SEC. 32. REPORTING AND INVESTIGATION OF ALLEGATIONS OF SEX-RELATED OFFENSES AND SEXUAL HARASSMENT.
+"SEC. 32. REPORTING AND INVESTIGATION OF ALLEGATIONS OF SEX-RELATED OFFENSES AND SEXUAL HARASSMENT.
 
-“(a) Policies Relating To Restricted And Unrestricted Reporting Of Sex-Related Offenses And Harassment.-
+"(a) Policies Relating To Restricted And Unrestricted Reporting Of Sex-Related Offenses And Harassment.-
 
-“(1) IN GENERAL.-The Director shall develop and implement policies, regulations, personnel training, and workforce messaging to establish and provide information about restricted reports and unrestricted reports of allegations of sex-related offenses and sexual harassment within the Agency in accordance with this subsection.
+"(1) IN GENERAL.-The Director shall develop and implement policies, regulations, personnel training, and workforce messaging to establish and provide information about restricted reports and unrestricted reports of allegations of sex-related offenses and sexual harassment within the Agency in accordance with this subsection.
 
-“(2) WORKFORCE MESSAGING.-Workforce messaging developed under paragraph (1) shall be designed to clearly inform Agency employees of the differences between restricted and unrestricted reporting of allegations of sex-related offenses and sexual harassment, and which individual or office within the Agency is responsible for receiving each type of report.
+"(2) WORKFORCE MESSAGING.-Workforce messaging developed under paragraph (1) shall be designed to clearly inform Agency employees of the differences between restricted and unrestricted reporting of allegations of sex-related offenses and sexual harassment, and which individual or office within the Agency is responsible for receiving each type of report.
 
-“(b) Election.-Any person making a report containing an allegation of a sex-related offense or sexual harassment shall elect whether to make a restricted report or an unrestricted report. Once an election is made to make an unrestricted report, such election may not be changed.
+"(b) Election.-Any person making a report containing an allegation of a sex-related offense or sexual harassment shall elect whether to make a restricted report or an unrestricted report. Once an election is made to make an unrestricted report, such election may not be changed.
 
-“(c) Unrestricted Reports.-
+"(c) Unrestricted Reports.-
 
-“(1) DISCLOSURE; ASSISTANCE.-A person who elects to make an unrestricted report containing an allegation of a sex-related offense or sexual harassment may disclose the report to any employee of the Agency. A person who elects to make an unrestricted report containing an allegation of a sex-related offense or sexual harassment may seek the assistance of another employee of the Agency with taking the action required under paragraph (2).
+"(1) DISCLOSURE; ASSISTANCE.-A person who elects to make an unrestricted report containing an allegation of a sex-related offense or sexual harassment may disclose the report to any employee of the Agency. A person who elects to make an unrestricted report containing an allegation of a sex-related offense or sexual harassment may seek the assistance of another employee of the Agency with taking the action required under paragraph (2).
 
-“(2) ACTION REQUIRED.-A person electing to make an unrestricted report containing an allegation of a sex-related offense or sexual harassment shall submit the report to the Office of the Victim and Whistleblower Counsel. In the case of a person making an unrestricted report of sexual harassment, the Victim and Whistleblower Counsel shall facilitate the contact by the person with the Office of Equal Employment Opportunity. In the case of a person making an unrestricted report of a sex-related offense other than sexual harassment, the Victim and Whistleblower Counsel shall facilitate the contact of such person with the Sexual Assault Prevention and Response Office.
+"(2) ACTION REQUIRED.-A person electing to make an unrestricted report containing an allegation of a sex-related offense or sexual harassment shall submit the report to the Office of the Victim and Whistleblower Counsel. In the case of a person making an unrestricted report of sexual harassment, the Victim and Whistleblower Counsel shall facilitate the contact by the person with the Office of Equal Employment Opportunity. In the case of a person making an unrestricted report of a sex-related offense other than sexual harassment, the Victim and Whistleblower Counsel shall facilitate the contact of such person with the Sexual Assault Prevention and Response Office.
 
-“(d) Restricted Reports.-
+"(d) Restricted Reports.-
 
-“(1) PROCESS FOR MAKING REPORTS.-A person who elects to make a restricted report containing an allegation of a sex-related offense or sexual harassment shall submit the report to a person authorized to receive a restricted report under paragraph (2).
+"(1) PROCESS FOR MAKING REPORTS.-A person who elects to make a restricted report containing an allegation of a sex-related offense or sexual harassment shall submit the report to a person authorized to receive a restricted report under paragraph (2).
 
-“(2) PERSON AUTHORIZED TO RECEIVE A RESTRICTED REPORT.-The following individuals are persons authorized to receive a restricted report:
+"(2) PERSON AUTHORIZED TO RECEIVE A RESTRICTED REPORT.-The following individuals are persons authorized to receive a restricted report:
 
-“(A) The Chief Wellbeing Officer.
+"(A) The Chief Wellbeing Officer.
 
-“(B) Any employee of the Office of Wellness and Workforce Support.
+"(B) Any employee of the Office of Wellness and Workforce Support.
 
-“(C) Any employee of the Office of the Victim and Whistleblower Counsel.
+"(C) Any employee of the Office of the Victim and Whistleblower Counsel.
 
-“(D) Any medical professional assigned to the Center for Global Health Services, or any successor organization employing Agency support staff.
+"(D) Any medical professional assigned to the Center for Global Health Services, or any successor organization employing Agency support staff.
 
-“(E) Any employee of the Chaplain Corps of the Agency.
+"(E) Any employee of the Chaplain Corps of the Agency.
 
-“(F) The Special Victim Investigator within the Office of Security.
+"(F) The Special Victim Investigator within the Office of Security.
 
-“(G) Any medical professional, including a mental health professional.
+"(G) Any medical professional, including a mental health professional.
 
-“(H) Any additional employees that the Director determines appropriate.
+"(H) Any additional employees that the Director determines appropriate.
 
-“(3) ACTION REQUIRED.-A restricted report containing an allegation of a sex-related offense or sexual harassment-
+"(3) ACTION REQUIRED.-A restricted report containing an allegation of a sex-related offense or sexual harassment-
 
-“(A) shall be treated by the person who receives the report in the same manner as a communication covered by attorney-client privilege;
+"(A) shall be treated by the person who receives the report in the same manner as a communication covered by attorney-client privilege;
 
-“(B) shall be privileged against disclosure with strict confidentiality and with the person making the report maintaining full control over all decisions related to any further dissemination, except in cases of an imminent threat of serious bodily harm;
+"(B) shall be privileged against disclosure with strict confidentiality and with the person making the report maintaining full control over all decisions related to any further dissemination, except in cases of an imminent threat of serious bodily harm;
 
-“(C) shall not result in a referral to law enforcement or commencement of a formal administrative investigation, unless the victim elects to change the report from a restricted report to an unrestricted report;
+"(C) shall not result in a referral to law enforcement or commencement of a formal administrative investigation, unless the victim elects to change the report from a restricted report to an unrestricted report;
 
-“(D) in a case requiring an employee reassignment, relocation, or other mitigation or protective measures, shall result only in actions that are managed in a manner to limit, to the extent possible, the disclosure of any information contained in the report; and
+"(D) in a case requiring an employee reassignment, relocation, or other mitigation or protective measures, shall result only in actions that are managed in a manner to limit, to the extent possible, the disclosure of any information contained in the report; and
 
-“(E) shall be exempt from any Federal or, to the maximum extent permitted by the Constitution, State reporting requirements, including the requirements under section 535(b) of title 28, United States Code, section 17(b)(5) of this Act, and section 1.6(b) of Executive Order 12333 (50 U.S.C. 3001 note; relating to United States intelligence activities), except when reporting is necessary to prevent or mitigate an imminent threat of serious bodily harm.
+"(E) shall be exempt from any Federal or, to the maximum extent permitted by the Constitution, State reporting requirements, including the requirements under section 535(b) of title 28, United States Code, section 17(b)(5) of this Act, and section 1.6(b) of Executive Order 12333 (50 U.S.C. 3001 note; relating to United States intelligence activities), except when reporting is necessary to prevent or mitigate an imminent threat of serious bodily harm.
 
-“(e) Incident Reports When Victim Or Alleged Perpetrator Is An Agency Employee.-
+"(e) Incident Reports When Victim Or Alleged Perpetrator Is An Agency Employee.-
 
-“(1) INCIDENT REPORTING POLICY.-The Director shall establish and maintain a policy under which-
+"(1) INCIDENT REPORTING POLICY.-The Director shall establish and maintain a policy under which-
 
-“(A) in the case of an unrestricted report of-
+"(A) in the case of an unrestricted report of-
 
-“(i) sexual harassment, the head of the Office of Equal Employment Opportunity is required to submit a written incident report not later than 8 days after receiving a formal complaint containing an allegation of sexual harassment; and
+"(i) sexual harassment, the head of the Office of Equal Employment Opportunity is required to submit a written incident report not later than 8 days after receiving a formal complaint containing an allegation of sexual harassment; and
 
-“(ii) a sex-related offense other than sexual harassment, the head of the Sexual Assault Prevention and Response Office is required to submit a written incident report not later than 8 days after receipt of the unrestricted report; and
+"(ii) a sex-related offense other than sexual harassment, the head of the Sexual Assault Prevention and Response Office is required to submit a written incident report not later than 8 days after receipt of the unrestricted report; and
 
-“(B) each such incident report required under subparagraph (A) shall be provided to-
+"(B) each such incident report required under subparagraph (A) shall be provided to-
 
-“(i) the Chief Operating Officer of the Agency;
+"(i) the Chief Operating Officer of the Agency;
 
-“(ii) the Special Victim Investigator;
+"(ii) the Special Victim Investigator;
 
-“(iii) the Office of the Victim and Whistleblower Counsel;
+"(iii) the Office of the Victim and Whistleblower Counsel;
 
-“(iv) the Sexual Assault Prevention and Response Office;
+"(iv) the Sexual Assault Prevention and Response Office;
 
-“(v) the Office of Equal Employment Opportunity; and
+"(v) the Office of Equal Employment Opportunity; and
 
-“(vi) such other individuals as the Director determines appropriate.
+"(vi) such other individuals as the Director determines appropriate.
 
-“(2) PURPOSE.-The purpose of an incident report required under paragraph (1) is to-
+"(2) PURPOSE.-The purpose of an incident report required under paragraph (1) is to-
 
-“(A) record the details about actions taken or in progress to provide the necessary care and support to the victim of the alleged incident;
+"(A) record the details about actions taken or in progress to provide the necessary care and support to the victim of the alleged incident;
 
-“(B) refer the allegations to the appropriate investigatory or law enforcement agency; and
+"(B) refer the allegations to the appropriate investigatory or law enforcement agency; and
 
-“(C) provide initial formal notification of the alleged incident.
+"(C) provide initial formal notification of the alleged incident.
 
-“(3) ELEMENTS.-Each incident report required under paragraph (1) shall include each of the following:
+"(3) ELEMENTS.-Each incident report required under paragraph (1) shall include each of the following:
 
-“(A) The time, date, and location of the alleged sex-related offense or sexual harassment.
+"(A) The time, date, and location of the alleged sex-related offense or sexual harassment.
 
-“(B) An identification of the type of offense or harassment alleged.
+"(B) An identification of the type of offense or harassment alleged.
 
-“(C) An identification of the assigned office and location of the victim.
+"(C) An identification of the assigned office and location of the victim.
 
-“(D) An identification of the assigned office and location of the alleged perpetrator, including information regarding whether the alleged perpetrator has been temporarily transferred or removed from an assignment or otherwise restricted, if applicable.
+"(D) An identification of the assigned office and location of the alleged perpetrator, including information regarding whether the alleged perpetrator has been temporarily transferred or removed from an assignment or otherwise restricted, if applicable.
 
-“(E) A description of any post-incident actions taken in connection with the incident, including-
+"(E) A description of any post-incident actions taken in connection with the incident, including-
 
-“(i) referral to any services available to victims, including the date of each referral;
+"(i) referral to any services available to victims, including the date of each referral;
 
-“(ii) notification of the incident to appropriate investigatory organizations, including the organizations notified and dates of notifications; and
+"(ii) notification of the incident to appropriate investigatory organizations, including the organizations notified and dates of notifications; and
 
-“(iii) issuance of any personal protection orders or steps taken to separate the victim and the alleged perpetrator within their place of employment.
+"(iii) issuance of any personal protection orders or steps taken to separate the victim and the alleged perpetrator within their place of employment.
 
-“(F) Such other elements as the Director determines appropriate.
+"(F) Such other elements as the Director determines appropriate.
 
-“(f) Common Perpetrator Notice Requirement.-
+"(f) Common Perpetrator Notice Requirement.-
 
-“(1) UNRESTRICTED REPORTS.-Upon receipt of an incident report under subsection (e)(1) containing an allegation of a sex-related offense or sexual harassment against an individual known to be the subject of at least one allegation of a sex-related offense or sexual harassment by another reporter, the Special Victim Investigator shall notify each of the following of all existing allegations against the individual:
+"(1) UNRESTRICTED REPORTS.-Upon receipt of an incident report under subsection (e)(1) containing an allegation of a sex-related offense or sexual harassment against an individual known to be the subject of at least one allegation of a sex-related offense or sexual harassment by another reporter, the Special Victim Investigator shall notify each of the following of all existing allegations against the individual:
 
-“(A) The Director.
+"(A) The Director.
 
-“(B) The Chief Operating Officer.
+"(B) The Chief Operating Officer.
 
-“(C) The head of the directorate employing the individual.
+"(C) The head of the directorate employing the individual.
 
-“(D) The head of the Sexual Assault Prevention and Response Office.
+"(D) The head of the Sexual Assault Prevention and Response Office.
 
-“(E) The first supervisor of the individual.
+"(E) The first supervisor of the individual.
 
-“(F) The Inspector General.
+"(F) The Inspector General.
 
-“(G) The Victim and Whistleblower Counsel.
+"(G) The Victim and Whistleblower Counsel.
 
-“(2) RESTRICTED REPORTS.-Upon receipt of a restricted report under subsection (d), the Victim and Whistleblower Counsel shall notify any victim known to have filed a restricted report against the same individual who is the subject of the report under paragraph (1) that another allegation has been made against the individual who is the subject of the report under paragraph (1).
+"(2) RESTRICTED REPORTS.-Upon receipt of a restricted report under subsection (d), the Victim and Whistleblower Counsel shall notify any victim known to have filed a restricted report against the same individual who is the subject of the report under paragraph (1) that another allegation has been made against the individual who is the subject of the report under paragraph (1).
 
-“(g) Applicability.-The policies developed pursuant to this section shall apply to each of the following:
+"(g) Applicability.-The policies developed pursuant to this section shall apply to each of the following:
 
-“(1) Any employee of the Agency.
+"(1) Any employee of the Agency.
 
-“(2) Any employee of an entity that has entered into a contract with the Agency under which the employee performs functions at a facility associated with the Agency or functions associated with the Agency.
+"(2) Any employee of an entity that has entered into a contract with the Agency under which the employee performs functions at a facility associated with the Agency or functions associated with the Agency.
 
-“(3) Any person who makes an allegation of a sex-related offense or sexual harassment against an employee referred to in paragraph (1) or (2) at a facility associated with the Agency or during the performance of a function associated with the Agency.
+"(3) Any person who makes an allegation of a sex-related offense or sexual harassment against an employee referred to in paragraph (1) or (2) at a facility associated with the Agency or during the performance of a function associated with the Agency.
 
-“(h) Records.-The Director shall establish a system for tracking and permanently maintaining all Agency records related to any investigation into an allegation of a sex-related offense or sexual harassment made in an unrestricted report, including any related medical documentation.”.
+"(h) Records.-The Director shall establish a system for tracking and permanently maintaining all Agency records related to any investigation into an allegation of a sex-related offense or sexual harassment made in an unrestricted report, including any related medical documentation.".
 
 (e) Special Victim Investigator.-Such Act is further amended by adding at the end the following new section:
 
-“SEC. 33. SPECIAL VICTIM INVESTIGATOR.
+"SEC. 33. SPECIAL VICTIM INVESTIGATOR.
 
-“(a) Establishment.-The Director shall establish in the Office of Security a Special Victim Investigator, who shall be responsible for investigating all unrestricted reports containing allegations of sex-related offenses other than sexual harassment and supporting, as appropriate, the Office of Equal Employment Opportunity with investigating formal complaints containing allegations of sexual harassment. The person appointed as the Investigator shall be an appropriately credentialed Federal law enforcement officer and may be a detailee from a Federal law enforcement entity.
+"(a) Establishment.-The Director shall establish in the Office of Security a Special Victim Investigator, who shall be responsible for investigating all unrestricted reports containing allegations of sex-related offenses other than sexual harassment and supporting, as appropriate, the Office of Equal Employment Opportunity with investigating formal complaints containing allegations of sexual harassment. The person appointed as the Investigator shall be an appropriately credentialed Federal law enforcement officer and may be a detailee from a Federal law enforcement entity.
 
-“(b) Responsibilities.-The Investigator shall be responsible for-
+"(b) Responsibilities.-The Investigator shall be responsible for-
 
-“(1) supporting the Office of Equal Employment Opportunity with investigations into formal complaints containing allegations of sexual harassment, as appropriate;
+"(1) supporting the Office of Equal Employment Opportunity with investigations into formal complaints containing allegations of sexual harassment, as appropriate;
 
-“(2) investigating unrestricted reports containing allegations of sex-related offenses, including the conduct and management of all internal Agency inquiries, investigations, and other fact-finding activities related to specific allegations of sex-related offenses;
+"(2) investigating unrestricted reports containing allegations of sex-related offenses, including the conduct and management of all internal Agency inquiries, investigations, and other fact-finding activities related to specific allegations of sex-related offenses;
 
-“(3) testifying in a criminal prosecution in any venue, where appropriate;
+"(3) testifying in a criminal prosecution in any venue, where appropriate;
 
-“(4) serving as the case agent for a criminal investigation in any venue, where appropriate;
+"(4) serving as the case agent for a criminal investigation in any venue, where appropriate;
 
-“(5) supporting engagement with law enforcement relating to such allegations, where appropriate, including coordinating related cases with other Federal, State, local, and Tribal law enforcement agencies, as necessary and appropriate, pursuant to regulations, requirements, and procedures developed in consultation with the Federal Bureau of Investigation, for any such inquiries, investigations, or other fact-finding activities;
+"(5) supporting engagement with law enforcement relating to such allegations, where appropriate, including coordinating related cases with other Federal, State, local, and Tribal law enforcement agencies, as necessary and appropriate, pursuant to regulations, requirements, and procedures developed in consultation with the Federal Bureau of Investigation, for any such inquiries, investigations, or other fact-finding activities;
 
-“(6) developing and implementing policies and procedures necessary for the Investigator or any law enforcement partner to conduct effective investigations and also protect sensitive information;
+"(6) developing and implementing policies and procedures necessary for the Investigator or any law enforcement partner to conduct effective investigations and also protect sensitive information;
 
-“(7) serving as the only authorized investigative body in the Agency for allegations of sex-related offenses, except that, in the case of an allegation of a sex-related offense involving an employee of the Office of Security, the Investigator shall coordinate with appropriate criminal investigators who are detailed to the Agency for other missions or employed by another Federal law enforcement entity, as necessary, to maintain the integrity of the investigation and mitigate potential conflicts of interest;
+"(7) serving as the only authorized investigative body in the Agency for allegations of sex-related offenses, except that, in the case of an allegation of a sex-related offense involving an employee of the Office of Security, the Investigator shall coordinate with appropriate criminal investigators who are detailed to the Agency for other missions or employed by another Federal law enforcement entity, as necessary, to maintain the integrity of the investigation and mitigate potential conflicts of interest;
 
-“(8) establishing and coordinating clear policies regarding which agency should take the lead on conducting, or be the lead in coordinating with local law enforcement when applicable, investigations of sexual assault and sexual harassment overseas; and
+"(8) establishing and coordinating clear policies regarding which agency should take the lead on conducting, or be the lead in coordinating with local law enforcement when applicable, investigations of sexual assault and sexual harassment overseas; and
 
-“(9) sharing information with the Victim and Whistleblower Counsel to facilitate the support and advocacy of such Counsel for victims of alleged sex-related offenses or sexual harassment.
+"(9) sharing information with the Victim and Whistleblower Counsel to facilitate the support and advocacy of such Counsel for victims of alleged sex-related offenses or sexual harassment.
 
-“(c) Timeframe For Investigations.-The Investigator shall-
+"(c) Timeframe For Investigations.-The Investigator shall-
 
-“(1) ensure that any investigative support for a formal complaint containing allegations of sexual harassment shall occur within any investigation timelines required by applicable law;
+"(1) ensure that any investigative support for a formal complaint containing allegations of sexual harassment shall occur within any investigation timelines required by applicable law;
 
-“(2) ensure that any investigation into an allegation of a sex-related offense contained in an unrestricted report is completed by not later than 60 days after the date on which the report is referred to the Investigator under section 32(e)(1); and
+"(2) ensure that any investigation into an allegation of a sex-related offense contained in an unrestricted report is completed by not later than 60 days after the date on which the report is referred to the Investigator under section 32(e)(1); and
 
-“(3) if the Investigator determines that the completion of an investigation will take longer than 60 days-
+"(3) if the Investigator determines that the completion of an investigation will take longer than 60 days-
 
-“(A) not later than 60 days after the date on which the report is referred to the Investigator under section 32(e)(1), submit to the Director a request for an extension that contains a summary of the progress of the investigation, the reasons why the completion of the investigation requires additional time, and a plan for the completion of the investigation; and
+"(A) not later than 60 days after the date on which the report is referred to the Investigator under section 32(e)(1), submit to the Director a request for an extension that contains a summary of the progress of the investigation, the reasons why the completion of the investigation requires additional time, and a plan for the completion of the investigation; and
 
-“(B) provide to the person who made the report and the person against whom the allegation in the report was made notice of the extension of the investigation.”.
+"(B) provide to the person who made the report and the person against whom the allegation in the report was made notice of the extension of the investigation.".
 
 (f) Implementation And Reporting Requirements.-
 
@@ -1921,7 +1921,7 @@ SEC. 801. REPORTING AND INVESTIGATION OF ALLEGATIONS OF SEX-RELATED OFFENSES AND
 
 (A) IN GENERAL.-Not later than 90 days after the date of the enactment of this Act, and every 90 days thereafter for 2 years, the Director of the Central Intelligence Agency shall submit to the appropriate congressional committees a report on the implementation of this section and the amendments made by this section. The Director shall personally review, approve, and submit each report under this paragraph on a nondelegable basis.
 
-(3) APPROPRIATE CONGRESSIONAL COMMITTEES DEFINED.-In this subsection, the term “appropriate congressional committees” means-
+(3) APPROPRIATE CONGRESSIONAL COMMITTEES DEFINED.-In this subsection, the term "appropriate congressional committees" means-
 
 (A) the Permanent Select Committee on Intelligence and the Subcommittee on Defense of the Committee on Appropriations of the House of Representatives; and
 
@@ -1932,63 +1932,63 @@ TITLE I-MATTERS RELATING TO TECHNOLOGY AND INNOVATION
 SEC. 901. INTELLIGENCE COMMUNITY INNOVATION UNIT.
 (a) Establishment.-Title I of the National Security Act of 1947 (50 U.S.C. 3021 et seq.) is amended by inserting after section 103K the following new section (and conforming the table of contents at the beginning of such Act accordingly):
 
-“SEC. 103L. INTELLIGENCE COMMUNITY INNOVATION UNIT.
+"SEC. 103L. INTELLIGENCE COMMUNITY INNOVATION UNIT.
 
-“(a) Establishment.-The Director of National Intelligence shall establish within the Office of the Director of National Intelligence a unit to be known as the ‘Intelligence Community Innovation Unit’ (in this section referred to as the ‘Unit’).
+"(a) Establishment.-The Director of National Intelligence shall establish within the Office of the Director of National Intelligence a unit to be known as the ‘Intelligence Community Innovation Unit’ (in this section referred to as the ‘Unit’).
 
-“(b) Duties.-The duties of the Unit shall be as follows:
+"(b) Duties.-The duties of the Unit shall be as follows:
 
-“(1) To identify and evaluate commercial emerging technologies for potential adoption by the intelligence community to fulfill critical mission needs.
+"(1) To identify and evaluate commercial emerging technologies for potential adoption by the intelligence community to fulfill critical mission needs.
 
-“(2) To assist the heads of the elements of the intelligence community in identifying commercial emerging technologies and associated capabilities to address critical mission needs of that element.
+"(2) To assist the heads of the elements of the intelligence community in identifying commercial emerging technologies and associated capabilities to address critical mission needs of that element.
 
-“(3) To provide to the heads of the elements of the intelligence community seeking to field commercial emerging technologies technical expertise with respect to such technologies.
+"(3) To provide to the heads of the elements of the intelligence community seeking to field commercial emerging technologies technical expertise with respect to such technologies.
 
-“(4) To manage the prototyping program under subsection (e).
+"(4) To manage the prototyping program under subsection (e).
 
-“(5) To facilitate the transition of potential solutions to critical mission needs of the intelligence community from research and prototype projects to production.
+"(5) To facilitate the transition of potential solutions to critical mission needs of the intelligence community from research and prototype projects to production.
 
-“(6) To serve as a liaison between the intelligence community and the private sector (with a focus on small- and medium-sized companies and other organizations that do not have significant experience engaging with the intelligence community) to fulfill the duties listed in paragraphs (1) through (5), in coordination with the head of the Office of Engagement established under section 122.
+"(6) To serve as a liaison between the intelligence community and the private sector (with a focus on small- and medium-sized companies and other organizations that do not have significant experience engaging with the intelligence community) to fulfill the duties listed in paragraphs (1) through (5), in coordination with the head of the Office of Engagement established under section 122.
 
-“(c) Director Of Unit.-
+"(c) Director Of Unit.-
 
-“(1) APPOINTMENT; REPORTING.-The head of the Unit is the Director of the Intelligence Community Innovation Unit, who shall be appointed by the Director of National Intelligence and shall report directly to the Director of National Intelligence.
+"(1) APPOINTMENT; REPORTING.-The head of the Unit is the Director of the Intelligence Community Innovation Unit, who shall be appointed by the Director of National Intelligence and shall report directly to the Director of National Intelligence.
 
-“(2) QUALIFICATIONS.-In selecting an individual for appointment as the Director of the Intelligence Community Innovation Unit, the Director of National Intelligence shall give preference to individuals who the Director of National Intelligence determines have-
+"(2) QUALIFICATIONS.-In selecting an individual for appointment as the Director of the Intelligence Community Innovation Unit, the Director of National Intelligence shall give preference to individuals who the Director of National Intelligence determines have-
 
-“(A) significant relevant experience involving commercial emerging technology within the private sector; and
+"(A) significant relevant experience involving commercial emerging technology within the private sector; and
 
-“(B) a demonstrated history of fostering the adoption of commercial emerging technologies by the United States Government or the private sector.
+"(B) a demonstrated history of fostering the adoption of commercial emerging technologies by the United States Government or the private sector.
 
-“(d) Staff.-
+"(d) Staff.-
 
-“(1) IN GENERAL.-In addition to the Director of the Intelligence Community Innovation Unit, the Unit shall be composed of not more than 50 full-time equivalent positions.
+"(1) IN GENERAL.-In addition to the Director of the Intelligence Community Innovation Unit, the Unit shall be composed of not more than 50 full-time equivalent positions.
 
-“(2) STAFF WITH CERTAIN EXPERTISE.-The Director of National Intelligence shall ensure that there is a sufficient number of staff of the Unit, as determined by the Director, with expertise in-
+"(2) STAFF WITH CERTAIN EXPERTISE.-The Director of National Intelligence shall ensure that there is a sufficient number of staff of the Unit, as determined by the Director, with expertise in-
 
-“(A) other transaction authorities and nontraditional and rapid acquisition pathways for emerging technology;
+"(A) other transaction authorities and nontraditional and rapid acquisition pathways for emerging technology;
 
-“(B) engaging and evaluating small- and medium-sized emerging technology companies;
+"(B) engaging and evaluating small- and medium-sized emerging technology companies;
 
-“(C) the mission needs of the intelligence community; and
+"(C) the mission needs of the intelligence community; and
 
-“(D) any other skills or experiences the Director determines necessary.
+"(D) any other skills or experiences the Director determines necessary.
 
-“(3) SPECIAL HIRING AND RETENTION AUTHORITIES.-
+"(3) SPECIAL HIRING AND RETENTION AUTHORITIES.-
 
-“(A) IN GENERAL.-The Director of National Intelligence shall take such steps as may be necessary to incentivize the hiring and retention of staff of the Unit.
+"(A) IN GENERAL.-The Director of National Intelligence shall take such steps as may be necessary to incentivize the hiring and retention of staff of the Unit.
 
-“(B) SPECIAL PAY.-In establishing the rates of pay for the positions specified in paragraph (1), and to the extent practicable, the Director of National Intelligence may use the special pay authority under section 113B.
+"(B) SPECIAL PAY.-In establishing the rates of pay for the positions specified in paragraph (1), and to the extent practicable, the Director of National Intelligence may use the special pay authority under section 113B.
 
-“(4) AUTHORITY RELATING TO DETAILEES.-Upon request of the Unit, each head of an element of the intelligence community may detail to the Unit any of the personnel of that element to assist in carrying out the duties under subsection (b) on a reimbursable or a nonreimbursable basis.
+"(4) AUTHORITY RELATING TO DETAILEES.-Upon request of the Unit, each head of an element of the intelligence community may detail to the Unit any of the personnel of that element to assist in carrying out the duties under subsection (b) on a reimbursable or a nonreimbursable basis.
 
-“(e) Prototyping Program.-The Director of the Intelligence Community Innovation Unit shall establish a program to transition research and prototype projects to products in a production stage for the purpose of fulfilling critical mission needs of the intelligence community (in this subsection referred to as the ‘program’), including by designating projects as Emerging Technology Transition Projects under section 6713 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263; 50 U.S.C. 3024 note; 136 Stat. 3568).
+"(e) Prototyping Program.-The Director of the Intelligence Community Innovation Unit shall establish a program to transition research and prototype projects to products in a production stage for the purpose of fulfilling critical mission needs of the intelligence community (in this subsection referred to as the ‘program’), including by designating projects as Emerging Technology Transition Projects under section 6713 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263; 50 U.S.C. 3024 note; 136 Stat. 3568).
 
-“(f) Encouragement Of Use By Elements.-The Director of National Intelligence shall take such steps as may be necessary to encourage the use of the Unit by the heads of the other elements of the intelligence community.
+"(f) Encouragement Of Use By Elements.-The Director of National Intelligence shall take such steps as may be necessary to encourage the use of the Unit by the heads of the other elements of the intelligence community.
 
-“(g) Emerging Technology Defined.-In this section, the term ‘emerging technology’ has the meaning given that term in section 6701 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263; 50 U.S.C. 3024 note; 136 Stat. 3561).”.
+"(g) Emerging Technology Defined.-In this section, the term ‘emerging technology’ has the meaning given that term in section 6701 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263; 50 U.S.C. 3024 note; 136 Stat. 3561).".
 
-(b) Clarification Of Emerging Technology Definition.-Section 6701(8)(A) of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263; 50 U.S.C. 3024 note; 136 Stat. 3561) is amended by striking “during the 10-year period beginning on January 1, 2022” and inserting “during the subsequent 10-year period”.
+(b) Clarification Of Emerging Technology Definition.-Section 6701(8)(A) of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263; 50 U.S.C. 3024 note; 136 Stat. 3561) is amended by striking "during the 10-year period beginning on January 1, 2022" and inserting "during the subsequent 10-year period".
 
 (c) Deadline For Establishment.-Not later than 1 year after the date of the enactment of this Act, the Director of National Intelligence shall establish the Intelligence Community Innovation Unit.
 
@@ -2000,39 +2000,39 @@ SEC. 901. INTELLIGENCE COMMUNITY INNOVATION UNIT.
 
 (e) Definitions.-In this section:
 
-(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term “appropriate congressional committees” means-
+(1) APPROPRIATE CONGRESSIONAL COMMITTEES.-The term "appropriate congressional committees" means-
 
 (A) the congressional intelligence committees; and
 
 (B) the Committees on Appropriations of the House of Representatives and the Senate.
 
-(2) EMERGING TECHNOLOGY.-The term “emerging technology” has the meaning given such term in section 103L of the National Security Act of 1947 (as added by subsection (a)).
+(2) EMERGING TECHNOLOGY.-The term "emerging technology" has the meaning given such term in section 103L of the National Security Act of 1947 (as added by subsection (a)).
 
-(3) INTELLIGENCE COMMUNITY INNOVATION UNIT.-The term “Intelligence Community Innovation Unit” means the Intelligence Community Innovation Unit established under such section 103L.
+(3) INTELLIGENCE COMMUNITY INNOVATION UNIT.-The term "Intelligence Community Innovation Unit" means the Intelligence Community Innovation Unit established under such section 103L.
 
 
 SEC. 902. ESTABLISHMENT OF OFFICE OF ENGAGEMENT.
 (a) Establishment.-Title I of the National Security Act of 1947 (50 U.S.C. 3021 et seq.), as amended by section 901, is further amended by adding at the end the following new section (and conforming the table of contents at the beginning of such Act accordingly):
 
-“SEC. 122. OFFICE OF ENGAGEMENT.
+"SEC. 122. OFFICE OF ENGAGEMENT.
 
-“(a) Establishment.-There is within the Office of the Director of National Intelligence an Office of Engagement (in this section referred to as the ‘Office’).
+"(a) Establishment.-There is within the Office of the Director of National Intelligence an Office of Engagement (in this section referred to as the ‘Office’).
 
-“(b) Head; Staff.-
+"(b) Head; Staff.-
 
-“(1) HEAD.-The Director of National Intelligence shall appoint as head of the Office an individual with requisite experience in matters relating to the duties of the Office, as determined by the Director of National Intelligence. Such head of the Office shall report directly to the Director of National Intelligence.
+"(1) HEAD.-The Director of National Intelligence shall appoint as head of the Office an individual with requisite experience in matters relating to the duties of the Office, as determined by the Director of National Intelligence. Such head of the Office shall report directly to the Director of National Intelligence.
 
-“(2) STAFF.-To assist the head of the Office in fulfilling the duties of the Office, the head shall employ full-time equivalent staff in such number, and with such requisite expertise in matters relating to such duties, as may be determined by the head.
+"(2) STAFF.-To assist the head of the Office in fulfilling the duties of the Office, the head shall employ full-time equivalent staff in such number, and with such requisite expertise in matters relating to such duties, as may be determined by the head.
 
-“(c) Duties.-The duties of the Office shall be as follows:
+"(c) Duties.-The duties of the Office shall be as follows:
 
-“(1) To coordinate and facilitate across the elements of the intelligence community efforts regarding outreach, relationship development, and associated knowledge and relationship management, with covered entities.
+"(1) To coordinate and facilitate across the elements of the intelligence community efforts regarding outreach, relationship development, and associated knowledge and relationship management, with covered entities.
 
-“(2) To assist in sharing best practices regarding such efforts among the elements of the intelligence community.
+"(2) To assist in sharing best practices regarding such efforts among the elements of the intelligence community.
 
-“(3) To establish and implement metrics to assess the effectiveness of such efforts.
+"(3) To establish and implement metrics to assess the effectiveness of such efforts.
 
-“(d) Covered Entity Defined.-In this section, the term ‘covered entity’ means an entity that is not an entity of the United States Government, including private sector companies, institutions of higher education, trade associations, think tanks, laboratories, international organizations, and foreign partners and allies.”.
+"(d) Covered Entity Defined.-In this section, the term ‘covered entity’ means an entity that is not an entity of the United States Government, including private sector companies, institutions of higher education, trade associations, think tanks, laboratories, international organizations, and foreign partners and allies.".
 
 (b) Deadline.-The Director of National Intelligence shall establish the Office of Engagement by not later than 1 year after the date of the enactment of this Act.
 
@@ -2042,7 +2042,7 @@ SEC. 902. ESTABLISHMENT OF OFFICE OF ENGAGEMENT.
 
 (2) QUARTERLY BRIEFINGS.-Not later than 1 year after the date of the establishment of the Office of Engagement, and on a quarterly basis for 5 years thereafter, the Director of National Intelligence shall submit to the congressional intelligence committees a briefing on the status of the Office, including with respect to the staffing levels, activities, and fulfilment of duties of the Office.
 
-(d) Definitions.-In this section, the term “Office of Engagement” means the Office of Engagement established under section 122 of the National Security Act of 1947, as added by subsection (a).
+(d) Definitions.-In this section, the term "Office of Engagement" means the Office of Engagement established under section 122 of the National Security Act of 1947, as added by subsection (a).
 
 
 SEC. 903. REQUIREMENT FOR A CHIEF TECHNOLOGY OFFICER WITHIN EACH ELEMENT OF THE INTELLIGENCE COMMUNITY.
@@ -2102,13 +2102,13 @@ SEC. 904. REQUIREMENT TO AUTHORIZE ADDITIONAL SECURITY CLEARANCES FOR CERTAIN CO
 
 (g) Definitions.-In this section:
 
-(1) COVERED CONTRACT OR AGREEMENT.-The term “covered contract or agreement”, with respect to an entity, means a contract or other agreement between that entity and an element of the intelligence community the performance of which requires a specified number of covered persons to hold a security clearance.
+(1) COVERED CONTRACT OR AGREEMENT.-The term "covered contract or agreement", with respect to an entity, means a contract or other agreement between that entity and an element of the intelligence community the performance of which requires a specified number of covered persons to hold a security clearance.
 
-(2) COVERED PERSON.-In this section, the term “covered person”, with respect to an entity, means a contractor or employee of that entity.
+(2) COVERED PERSON.-In this section, the term "covered person", with respect to an entity, means a contractor or employee of that entity.
 
 
 SEC. 905. INTELLIGENCE INNOVATION BOARD.
-(a) Establishment Of Intelligence Innovation Board.-There is established a board to be known as the Intelligence Innovation Board (in this section referred to as the “Board”).
+(a) Establishment Of Intelligence Innovation Board.-There is established a board to be known as the Intelligence Innovation Board (in this section referred to as the "Board").
 
 (b) Purpose.-The purpose of the Board is to provide to the Director of National Intelligence, the heads of the other elements of the intelligence community, and the congressional intelligence committees advice and recommendations on changes to the culture, organizational structures, processes, and functions of the intelligence community necessary to address the adoption of emerging technologies by the intelligence community and to accelerate such adoption.
 
@@ -2176,7 +2176,7 @@ SEC. 905. INTELLIGENCE INNOVATION BOARD.
 
 (2) FORM.-Each report under paragraph (1) may be submitted in classified form, but if so submitted shall include an unclassified executive summary.
 
-(g) Nonapplicability Of Certain Requirements.-Chapter 10 of title 5, United States Code, (commonly known as the “Federal Advisory Committee Act”) shall not apply to the Board.
+(g) Nonapplicability Of Certain Requirements.-Chapter 10 of title 5, United States Code, (commonly known as the "Federal Advisory Committee Act") shall not apply to the Board.
 
 (h) Termination.-
 
@@ -2246,7 +2246,7 @@ SEC. 907. PROGRAM FOR BEYOND 5G.
 
 (2) such other individuals and entities as the Director determines appropriate.
 
-(c) 6G Technology Defined.-In this section, the term “6G technology” means hardware, software, or other technologies relating to sixth-generation wireless networks.
+(c) 6G Technology Defined.-In this section, the term "6G technology" means hardware, software, or other technologies relating to sixth-generation wireless networks.
 
 
 SEC. 908. INTELLIGENCE COMMUNITY COMMERCIAL REMOTE SENSING REQUIREMENTS.
@@ -2278,7 +2278,7 @@ SEC. 908. INTELLIGENCE COMMUNITY COMMERCIAL REMOTE SENSING REQUIREMENTS.
 
 (1) IN GENERAL.-Not later than 180 days after the date of the enactment of this Act, the Director of National Intelligence and the Under Secretary of Defense for Intelligence and Security shall jointly submit to the appropriate congressional committees a report on the implementation of subsection (b).
 
-(2) APPROPRIATE CONGRESSIONAL COMMITTEES DEFINED.-In this subsection, the term “appropriate congressional committees” means-
+(2) APPROPRIATE CONGRESSIONAL COMMITTEES DEFINED.-In this subsection, the term "appropriate congressional committees" means-
 
 (A) the congressional intelligence committees;
 
@@ -2311,7 +2311,7 @@ Union Calendar No. 129
 118th CONGRESS
      1st Session
 H. R. 3932
-[Report No. 118–162]
+[Report No. 118-162]
 A BILL
 To authorize appropriations for fiscal year 2024 for intelligence and intelligence related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.
 August 18, 2023
