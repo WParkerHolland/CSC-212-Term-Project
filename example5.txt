@@ -1,7 +1,7 @@
 118th CONGRESS
 1st Session
 H. R. 3932
-[Report No. 118–162]
+[Report No. 118-162]
 
 
 To authorize appropriations for fiscal year 2024 for intelligence and intelligence related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.
@@ -240,7 +240,7 @@ None of the funds authorized to be appropriated by this Act or otherwise made av
 
 
 SEC. 304. NONAPPLICABILITY OF CERTAIN PROHIBITIONS RELATING TO MODIFICATION OF ACCOUNT STRUCTURE FOR NATIONAL INTELLIGENCE PROGRAM BUDGET.
-None of the prohibitions under section 8067 of the Consolidated Appropriations Act, 2023 (Public Law 117–328) shall apply with respect to amounts authorized to be appropriated by this Act.
+None of the prohibitions under section 8067 of the Consolidated Appropriations Act, 2023 (Public Law 117-328) shall apply with respect to amounts authorized to be appropriated by this Act.
 
 
 SEC. 305. SECURE COMMUNICATION BETWEEN CONGRESS AND INTELLIGENCE COMMUNITY.
@@ -598,7 +598,7 @@ Title XI of the National Security Act of 1947 (50 U.S.C. 3231 et seq.) is amende
 
 
 SEC. 414. IN-STATE TUITION RATES FOR CERTAIN MEMBERS OF INTELLIGENCE COMMUNITY.
-(a) In General.-Section 135(d) of the Higher Education Act of 1965 (20 U.S.C. 1015d(d)), as amended by section 6206(a)(4) of the Foreign Service Families Act of 2021 (Public Law 117–81), is further amended-
+(a) In General.-Section 135(d) of the Higher Education Act of 1965 (20 U.S.C. 1015d(d)), as amended by section 6206(a)(4) of the Foreign Service Families Act of 2021 (Public Law 117-81), is further amended-
 
 (1) in paragraph (1), by striking "or" after the semicolon;
 
@@ -612,7 +612,7 @@ SEC. 414. IN-STATE TUITION RATES FOR CERTAIN MEMBERS OF INTELLIGENCE COMMUNITY.
 
 
 SEC. 415. REPEAL OF STUDY ON PERSONNEL UNDER STRATEGIC INTELLIGENCE PARTNERSHIP PROGRAM.
-Section 6435 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263; 136 Stat. 3533) is repealed (and conforming the table of contents in section 6001(b) accordingly).
+Section 6435 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263; 136 Stat. 3533) is repealed (and conforming the table of contents in section 6001(b) accordingly).
 
 
 SEC. 416. AUTHORIZATION RELATING TO CERTAIN INTELLIGENCE AND COUNTERINTELLIGENCE ACTIVITIES OF COAST GUARD.
@@ -1081,7 +1081,7 @@ SEC. 441. TECHNICAL CORRECTIONS.
 
 (B) in subsection (c)(4)(C)(iv), by striking "wavier" and inserting "waiver".
 
-(b) Intelligence Authorization Act For Fiscal Year 2023.-The Intelligence Authorization Act for Fiscal Year 2023 (division F of Public Law 117–263) is amended-
+(b) Intelligence Authorization Act For Fiscal Year 2023.-The Intelligence Authorization Act for Fiscal Year 2023 (division F of Public Law 117-263) is amended-
 
 (1) in section 6422(b) (50 U.S.C. 3334l(b)), by striking "Congressional" and inserting "congressional"; and
 
@@ -1123,7 +1123,7 @@ SEC. 441. TECHNICAL CORRECTIONS.
 
 (2) in subsection (j)(1)(C)(i), by striking "(d)," and all that follows through "section 8H" and inserting "(d), and (h) of section 8H".
 
-(f) Intelligence Authorization Act For Fiscal Year 2003.-The Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107–306; 116 Stat. 2383) is amended-
+(f) Intelligence Authorization Act For Fiscal Year 2003.-The Intelligence Authorization Act for Fiscal Year 2003 (Public Law 107-306; 116 Stat. 2383) is amended-
 
 (1) in section 313(d)(3)(B) (50 U.S.C. 3361(d)(3)(B)), by adding a period at the end; and
 
@@ -1164,7 +1164,7 @@ Section 431(a) of title 10, United States Code, is amended by striking "December
 
 
 SEC. 502. MODIFICATION OF REPORTING REQUIREMENT FOR ALL-DOMAIN ANOMALY RESOLUTION OFFICE.
-Section 1683(k)(1) of the National Defense Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373(k)(1)), as amended by section 6802(a) of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263), is further amended-
+Section 1683(k)(1) of the National Defense Authorization Act for Fiscal Year 2022 (50 U.S.C. 3373(k)(1)), as amended by section 6802(a) of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263), is further amended-
 
 (1) in the heading, by striking "DIRECTOR OF NATIONAL INTELLIGENCE AND SECRETARY OF DEFENSE" and inserting "ALL-DOMAIN ANOMALY RESOLUTION OFFICE"; and
 
@@ -1281,7 +1281,7 @@ The National Security Agency Act of 1959 (50 U.S.C. 3601 et seq.) is amended by 
 
 
 SEC. 602. MODIFICATIONS TO ENFORCEMENT OF CYBERSECURITY REQUIREMENTS FOR NATIONAL SECURITY SYSTEMS.
-Section 6309 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263) is amended-
+Section 6309 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263) is amended-
 
 (1) by redesignating subsection (e) as subsection (f); and
 
@@ -1291,13 +1291,13 @@ Section 6309 of the Intelligence Authorization Act for Fiscal Year 2023 (Public 
 
 
 SEC. 603. SUPPORT BY INTELLIGENCE COMMUNITY FOR CERTAIN CROSS-FUNCTIONAL TEAM OF DEPARTMENT OF DEFENSE.
-(a) Access To Information.-Upon request by the cross-functional team of the Department of Defense established under section 910 of the National Defense Authorization Act of Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 111 note) (in this section referred to as the "cross-functional team"), and consistent with the protection of intelligence sources and methods, the head of any element of the intelligence community shall provide such team with access to any information (including any intelligence reporting, analysis, or finished intelligence product) of the element potentially relevant to the duties of such team required under subsection (b)(1) of such section.
+(a) Access To Information.-Upon request by the cross-functional team of the Department of Defense established under section 910 of the National Defense Authorization Act of Fiscal Year 2022 (Public Law 117-81; 10 U.S.C. 111 note) (in this section referred to as the "cross-functional team"), and consistent with the protection of intelligence sources and methods, the head of any element of the intelligence community shall provide such team with access to any information (including any intelligence reporting, analysis, or finished intelligence product) of the element potentially relevant to the duties of such team required under subsection (b)(1) of such section.
 
-(b) Rule Of Construction.-Nothing in subsection (a) shall be construed as waiving the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191) or any other applicable law regarding privacy or the protection of health information.
+(b) Rule Of Construction.-Nothing in subsection (a) shall be construed as waiving the Health Insurance Portability and Accountability Act of 1996 (Public Law 104-191) or any other applicable law regarding privacy or the protection of health information.
 
 (c) Staffing Of Cross-Functional Team By Certain Elements.-
 
-(1) STAFFING.-The head of each covered element shall detail or assign to the cross-functional team, including through a joint duty assignment (as applicable), intelligence or counterintelligence personnel of that covered element in such numbers as the head, in consultation with such team, determines necessary to support such team in fulfilling the duties required under section 910(b)(1) of the National Defense Authorization Act of Fiscal Year 2022 (Public Law 117–81; 10 U.S.C. 111 note).
+(1) STAFFING.-The head of each covered element shall detail or assign to the cross-functional team, including through a joint duty assignment (as applicable), intelligence or counterintelligence personnel of that covered element in such numbers as the head, in consultation with such team, determines necessary to support such team in fulfilling the duties required under section 910(b)(1) of the National Defense Authorization Act of Fiscal Year 2022 (Public Law 117-81; 10 U.S.C. 111 note).
 
 (2) NATIONAL SECURITY AGENCY.-In carrying out paragraph (1) with respect to the National Security Agency, the Director of the National Security Agency shall ensure there is detailed or assigned to the cross-functional team at least 1 individual determined appropriate by the Director, who, while so detailed or assigned, shall provide such team with technical expertise of the National Security Agency relevant to the fulfilment of the duties referred to in paragraph (1).
 
@@ -1982,13 +1982,13 @@ SEC. 901. INTELLIGENCE COMMUNITY INNOVATION UNIT.
 
 "(4) AUTHORITY RELATING TO DETAILEES.-Upon request of the Unit, each head of an element of the intelligence community may detail to the Unit any of the personnel of that element to assist in carrying out the duties under subsection (b) on a reimbursable or a nonreimbursable basis.
 
-"(e) Prototyping Program.-The Director of the Intelligence Community Innovation Unit shall establish a program to transition research and prototype projects to products in a production stage for the purpose of fulfilling critical mission needs of the intelligence community (in this subsection referred to as the ‘program’), including by designating projects as Emerging Technology Transition Projects under section 6713 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263; 50 U.S.C. 3024 note; 136 Stat. 3568).
+"(e) Prototyping Program.-The Director of the Intelligence Community Innovation Unit shall establish a program to transition research and prototype projects to products in a production stage for the purpose of fulfilling critical mission needs of the intelligence community (in this subsection referred to as the ‘program’), including by designating projects as Emerging Technology Transition Projects under section 6713 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263; 50 U.S.C. 3024 note; 136 Stat. 3568).
 
 "(f) Encouragement Of Use By Elements.-The Director of National Intelligence shall take such steps as may be necessary to encourage the use of the Unit by the heads of the other elements of the intelligence community.
 
-"(g) Emerging Technology Defined.-In this section, the term ‘emerging technology’ has the meaning given that term in section 6701 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263; 50 U.S.C. 3024 note; 136 Stat. 3561).".
+"(g) Emerging Technology Defined.-In this section, the term ‘emerging technology’ has the meaning given that term in section 6701 of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263; 50 U.S.C. 3024 note; 136 Stat. 3561).".
 
-(b) Clarification Of Emerging Technology Definition.-Section 6701(8)(A) of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117–263; 50 U.S.C. 3024 note; 136 Stat. 3561) is amended by striking "during the 10-year period beginning on January 1, 2022" and inserting "during the subsequent 10-year period".
+(b) Clarification Of Emerging Technology Definition.-Section 6701(8)(A) of the Intelligence Authorization Act for Fiscal Year 2023 (Public Law 117-263; 50 U.S.C. 3024 note; 136 Stat. 3561) is amended by striking "during the 10-year period beginning on January 1, 2022" and inserting "during the subsequent 10-year period".
 
 (c) Deadline For Establishment.-Not later than 1 year after the date of the enactment of this Act, the Director of National Intelligence shall establish the Intelligence Community Innovation Unit.
 
@@ -2311,7 +2311,7 @@ Union Calendar No. 129
 118th CONGRESS
      1st Session
 H. R. 3932
-[Report No. 118–162]
+[Report No. 118-162]
 A BILL
 To authorize appropriations for fiscal year 2024 for intelligence and intelligence related activities of the United States Government, the Community Management Account, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.
 August 18, 2023
