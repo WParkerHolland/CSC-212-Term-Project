@@ -7,10 +7,13 @@ It has been known that U.S. legislators do not read every bill that they must vo
 This program will read data from a text file, which contains active legislation found on the U.S. Senate's official website (https://www.senate.gov/legislative/active_leg_page.htm). Depending on the user's input, this program can perform a Rabin-Karp search, Boyer-Moore search, or both of them and compare their benchmarks graphically.
 
 ## Who does what
-Jad Alsassa - Designs main.cpp, which combines all other algorithms and will read data from a website to use for string searching  
+Jad Alsassa - Designs main.cpp, which combines all other algorithms and shows output to the user (Everyone contributed minor changes to main whenever they changed a function they were working on)  
 Caleb Cady - Develops the Boyer-Moore string search algorithm and anything else needed for it  
 Parker Holland - Develops the Rabin-Karp string search algorithm and writes the readme file  
-Owen Cunnie - Designs the files for the benchmarking and graphing of results for each search algorithm  
+Owen Cunnie - Designs the files for the benchmarking and graphed the results for each search algorithm's benchmark  
 
 ## How to use
-TBD
+1. Copy the text from the text tab of legislation found on https://www.senate.gov/legislative/active_leg_page.htm into a text file.  
+2. In the text file, replace all right leaning and left leaning quotation marks with ", all em dashes with -, and all left leaning and right leaning apostrophes with '.  
+3. Compile with the command "g++ main.cpp bench.cpp boyer_moore.cpp rabin_karp.cpp"  
+4. Run the executable with "./a.exe textFileName.txt".  
