@@ -9,12 +9,12 @@
 #include "bench.h"
 
 bool isValidAlgorithm(std::string& algorithm) {
-    return algorithm == "boyer moore" || algorithm == "rabin karp" || algorithm == "both" || algorithm == "run a benchmark";
+    return algorithm == "boyer moore" || algorithm == "rabin karp" || algorithm == "both" || algorithm == "benchmark rabin karp" || algorithm == "benchmark boyer moore";
 }
 
 void processAlgorithm(std::string& algorithm) {
     do {
-        std::cout << "Please enter what you would like to run. Your choices are: (Boyer Moore), (Rabin Karp), (both), or (run a benchmark)" << std::endl;
+        std::cout << "Please enter what you would like to run. Your choices are: 'Boyer Moore', 'Rabin Karp', 'both', 'benchmark rabin karp', or 'benchmark boyer moore'" << std::endl;
         std::getline(std::cin, algorithm);
 
         std::transform(algorithm.begin(), algorithm.end(), algorithm.begin(), ::tolower);
@@ -59,7 +59,7 @@ int main(int argc, char* argv[]) {
         std::string pattern;
         std::string boyerMoore_target;
 
-        std::cout << "Enter the target string" << std::endl;
+        std::cout << "Enter desired search pattern" << std::endl;
         std::getline(std::cin, pattern);
 
         BoyerMoore boyerMoore(pattern, temp);
@@ -70,7 +70,7 @@ int main(int argc, char* argv[]) {
     else if(algorithm == "rabin karp"){
         std::string targetString;
         std::cout << "Enter the target string: " << std::endl;
-        std::getline(std::cin, targetString);
+        std::cin >> targetString;
         
         std::vector<int>* rabinKarpResult = twoWayQueue.rabin_karp(argv[1], targetString);
         
@@ -89,8 +89,11 @@ int main(int argc, char* argv[]) {
         std::string targetString;
         std::string pattern;
     
-        std::cout << "Enter target string" << std::endl;
+        std::cout << "Enter target string (Rabin Karp)" << std::endl;
         std::cin >> targetString;
+
+        std::cout << "Enter target string (Boyer Moore)" << std::endl;
+        std::cin >> pattern;
 
         std::vector<int>* rabinKarpResult = twoWayQueue.rabin_karp(argv[1], targetString);
 
@@ -110,13 +113,21 @@ int main(int argc, char* argv[]) {
         boyerMoore.search();
         boyerMoore.printResults();
     }
-    else if(algorithm == "run a benchmark"){
-        std::string benchmark_targetString;
-        std::cout << "Enter target string" << std::endl;
-        std::getline(std::cin, benchmark_targetString);
+    else if(algorithm == "benchmark rabin karp"){
+        std::string benchmark_targetStringRK;
 
-        benchmark.benchRK(temp, benchmark_targetString);
-        benchmark.benchBM(temp, benchmark_targetString);
+        std::cout << "Enter target string (Rabin Karp)" << std::endl;
+        std::cin >> benchmark_targetStringRK;
+
+        benchmark.benchRK(temp, benchmark_targetStringRK);
+    }
+    else if(algorithm == "benchmark boyer moore"){
+        std::string benchmark_targetStringBM;
+
+        std::cout << "Enter target string (Boyer Moore)" << std::endl;
+        std::cin >> benchmark_targetStringBM;
+
+        benchmark.benchBM(temp, benchmark_targetStringBM);
     }
 
     return 0;
